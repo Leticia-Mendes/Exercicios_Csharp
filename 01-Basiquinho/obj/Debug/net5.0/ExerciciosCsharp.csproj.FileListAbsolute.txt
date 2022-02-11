@@ -1,0 +1,15 @@
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\ExerciciosCsharp\bin\Debug\net5.0\ExerciciosCsharp.exe
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\ExerciciosCsharp\bin\Debug\net5.0\ExerciciosCsharp.deps.json
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\ExerciciosCsharp\bin\Debug\net5.0\ExerciciosCsharp.runtimeconfig.json
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\ExerciciosCsharp\bin\Debug\net5.0\ExerciciosCsharp.runtimeconfig.dev.json
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\ExerciciosCsharp\bin\Debug\net5.0\ExerciciosCsharp.dll
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\ExerciciosCsharp\bin\Debug\net5.0\ref\ExerciciosCsharp.dll
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\ExerciciosCsharp\bin\Debug\net5.0\ExerciciosCsharp.pdb
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net5.0\ExerciciosCsharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net5.0\ExerciciosCsharp.AssemblyInfoInputs.cache
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net5.0\ExerciciosCsharp.AssemblyInfo.cs
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net5.0\ExerciciosCsharp.csproj.CoreCompileInputs.cache
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net5.0\ExerciciosCsharp.dll
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net5.0\ref\ExerciciosCsharp.dll
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net5.0\ExerciciosCsharp.pdb
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\net5.0\ExerciciosCsharp.genruntimeconfig.cache

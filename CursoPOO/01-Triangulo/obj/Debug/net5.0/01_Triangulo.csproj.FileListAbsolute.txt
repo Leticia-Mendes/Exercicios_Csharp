@@ -1,0 +1,15 @@
+D:\codigo-c#\C#-udemyNelio\CursoPOO\01-Triangulo\bin\Debug\net5.0\01_Triangulo.exe
+D:\codigo-c#\C#-udemyNelio\CursoPOO\01-Triangulo\bin\Debug\net5.0\01_Triangulo.deps.json
+D:\codigo-c#\C#-udemyNelio\CursoPOO\01-Triangulo\bin\Debug\net5.0\01_Triangulo.runtimeconfig.json
+D:\codigo-c#\C#-udemyNelio\CursoPOO\01-Triangulo\bin\Debug\net5.0\01_Triangulo.runtimeconfig.dev.json
+D:\codigo-c#\C#-udemyNelio\CursoPOO\01-Triangulo\bin\Debug\net5.0\01_Triangulo.dll
+D:\codigo-c#\C#-udemyNelio\CursoPOO\01-Triangulo\bin\Debug\net5.0\ref\01_Triangulo.dll
+D:\codigo-c#\C#-udemyNelio\CursoPOO\01-Triangulo\bin\Debug\net5.0\01_Triangulo.pdb
+D:\codigo-c#\C#-udemyNelio\CursoPOO\01-Triangulo\obj\Debug\net5.0\01_Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\codigo-c#\C#-udemyNelio\CursoPOO\01-Triangulo\obj\Debug\net5.0\01_Triangulo.AssemblyInfoInputs.cache
+D:\codigo-c#\C#-udemyNelio\CursoPOO\01-Triangulo\obj\Debug\net5.0\01_Triangulo.AssemblyInfo.cs
+D:\codigo-c#\C#-udemyNelio\CursoPOO\01-Triangulo\obj\Debug\net5.0\01_Triangulo.csproj.CoreCompileInputs.cache
+D:\codigo-c#\C#-udemyNelio\CursoPOO\01-Triangulo\obj\Debug\net5.0\01_Triangulo.dll
+D:\codigo-c#\C#-udemyNelio\CursoPOO\01-Triangulo\obj\Debug\net5.0\ref\01_Triangulo.dll
+D:\codigo-c#\C#-udemyNelio\CursoPOO\01-Triangulo\obj\Debug\net5.0\01_Triangulo.pdb
+D:\codigo-c#\C#-udemyNelio\CursoPOO\01-Triangulo\obj\Debug\net5.0\01_Triangulo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\codigo-c#\C#-udemyNelio\CursoPOO\01-Pessoa\bin\Debug\net5.0\01-Pessoa.exe
+D:\codigo-c#\C#-udemyNelio\CursoPOO\01-Pessoa\bin\Debug\net5.0\01-Pessoa.deps.json
+D:\codigo-c#\C#-udemyNelio\CursoPOO\01-Pessoa\bin\Debug\net5.0\01-Pessoa.runtimeconfig.json
+D:\codigo-c#\C#-udemyNelio\CursoPOO\01-Pessoa\bin\Debug\net5.0\01-Pessoa.runtimeconfig.dev.json
+D:\codigo-c#\C#-udemyNelio\CursoPOO\01-Pessoa\bin\Debug\net5.0\01-Pessoa.dll
+D:\codigo-c#\C#-udemyNelio\CursoPOO\01-Pessoa\bin\Debug\net5.0\ref\01-Pessoa.dll
+D:\codigo-c#\C#-udemyNelio\CursoPOO\01-Pessoa\bin\Debug\net5.0\01-Pessoa.pdb
+D:\codigo-c#\C#-udemyNelio\CursoPOO\01-Pessoa\obj\Debug\net5.0\01-Pessoa.csproj.AssemblyReference.cache
+D:\codigo-c#\C#-udemyNelio\CursoPOO\01-Pessoa\obj\Debug\net5.0\01-Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+D:\codigo-c#\C#-udemyNelio\CursoPOO\01-Pessoa\obj\Debug\net5.0\01-Pessoa.AssemblyInfoInputs.cache
+D:\codigo-c#\C#-udemyNelio\CursoPOO\01-Pessoa\obj\Debug\net5.0\01-Pessoa.AssemblyInfo.cs
+D:\codigo-c#\C#-udemyNelio\CursoPOO\01-Pessoa\obj\Debug\net5.0\01-Pessoa.csproj.CoreCompileInputs.cache
+D:\codigo-c#\C#-udemyNelio\CursoPOO\01-Pessoa\obj\Debug\net5.0\01-Pessoa.dll
+D:\codigo-c#\C#-udemyNelio\CursoPOO\01-Pessoa\obj\Debug\net5.0\ref\01-Pessoa.dll
+D:\codigo-c#\C#-udemyNelio\CursoPOO\01-Pessoa\obj\Debug\net5.0\01-Pessoa.pdb
+D:\codigo-c#\C#-udemyNelio\CursoPOO\01-Pessoa\obj\Debug\net5.0\01-Pessoa.genruntimeconfig.cache

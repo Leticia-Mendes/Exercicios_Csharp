@@ -1,0 +1,16 @@
+D:\codigo-c#\C#-udemyNelio\CursoPOO\CursoPOO\bin\Debug\net5.0\CursoPOO.exe
+D:\codigo-c#\C#-udemyNelio\CursoPOO\CursoPOO\bin\Debug\net5.0\CursoPOO.deps.json
+D:\codigo-c#\C#-udemyNelio\CursoPOO\CursoPOO\bin\Debug\net5.0\CursoPOO.runtimeconfig.json
+D:\codigo-c#\C#-udemyNelio\CursoPOO\CursoPOO\bin\Debug\net5.0\CursoPOO.runtimeconfig.dev.json
+D:\codigo-c#\C#-udemyNelio\CursoPOO\CursoPOO\bin\Debug\net5.0\CursoPOO.dll
+D:\codigo-c#\C#-udemyNelio\CursoPOO\CursoPOO\bin\Debug\net5.0\ref\CursoPOO.dll
+D:\codigo-c#\C#-udemyNelio\CursoPOO\CursoPOO\bin\Debug\net5.0\CursoPOO.pdb
+D:\codigo-c#\C#-udemyNelio\CursoPOO\CursoPOO\obj\Debug\net5.0\CursoPOO.csproj.AssemblyReference.cache
+D:\codigo-c#\C#-udemyNelio\CursoPOO\CursoPOO\obj\Debug\net5.0\CursoPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\codigo-c#\C#-udemyNelio\CursoPOO\CursoPOO\obj\Debug\net5.0\CursoPOO.AssemblyInfoInputs.cache
+D:\codigo-c#\C#-udemyNelio\CursoPOO\CursoPOO\obj\Debug\net5.0\CursoPOO.AssemblyInfo.cs
+D:\codigo-c#\C#-udemyNelio\CursoPOO\CursoPOO\obj\Debug\net5.0\CursoPOO.csproj.CoreCompileInputs.cache
+D:\codigo-c#\C#-udemyNelio\CursoPOO\CursoPOO\obj\Debug\net5.0\CursoPOO.dll
+D:\codigo-c#\C#-udemyNelio\CursoPOO\CursoPOO\obj\Debug\net5.0\ref\CursoPOO.dll
+D:\codigo-c#\C#-udemyNelio\CursoPOO\CursoPOO\obj\Debug\net5.0\CursoPOO.pdb
+D:\codigo-c#\C#-udemyNelio\CursoPOO\CursoPOO\obj\Debug\net5.0\CursoPOO.genruntimeconfig.cache

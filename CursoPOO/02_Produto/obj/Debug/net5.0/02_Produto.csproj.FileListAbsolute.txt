@@ -1,0 +1,16 @@
+D:\codigo-c#\C#-udemyNelio\CursoPOO\02_Produto\bin\Debug\net5.0\02_Produto.exe
+D:\codigo-c#\C#-udemyNelio\CursoPOO\02_Produto\bin\Debug\net5.0\02_Produto.deps.json
+D:\codigo-c#\C#-udemyNelio\CursoPOO\02_Produto\bin\Debug\net5.0\02_Produto.runtimeconfig.json
+D:\codigo-c#\C#-udemyNelio\CursoPOO\02_Produto\bin\Debug\net5.0\02_Produto.runtimeconfig.dev.json
+D:\codigo-c#\C#-udemyNelio\CursoPOO\02_Produto\bin\Debug\net5.0\02_Produto.dll
+D:\codigo-c#\C#-udemyNelio\CursoPOO\02_Produto\bin\Debug\net5.0\ref\02_Produto.dll
+D:\codigo-c#\C#-udemyNelio\CursoPOO\02_Produto\bin\Debug\net5.0\02_Produto.pdb
+D:\codigo-c#\C#-udemyNelio\CursoPOO\02_Produto\obj\Debug\net5.0\02_Produto.csproj.AssemblyReference.cache
+D:\codigo-c#\C#-udemyNelio\CursoPOO\02_Produto\obj\Debug\net5.0\02_Produto.GeneratedMSBuildEditorConfig.editorconfig
+D:\codigo-c#\C#-udemyNelio\CursoPOO\02_Produto\obj\Debug\net5.0\02_Produto.AssemblyInfoInputs.cache
+D:\codigo-c#\C#-udemyNelio\CursoPOO\02_Produto\obj\Debug\net5.0\02_Produto.AssemblyInfo.cs
+D:\codigo-c#\C#-udemyNelio\CursoPOO\02_Produto\obj\Debug\net5.0\02_Produto.csproj.CoreCompileInputs.cache
+D:\codigo-c#\C#-udemyNelio\CursoPOO\02_Produto\obj\Debug\net5.0\02_Produto.dll
+D:\codigo-c#\C#-udemyNelio\CursoPOO\02_Produto\obj\Debug\net5.0\ref\02_Produto.dll
+D:\codigo-c#\C#-udemyNelio\CursoPOO\02_Produto\obj\Debug\net5.0\02_Produto.pdb
+D:\codigo-c#\C#-udemyNelio\CursoPOO\02_Produto\obj\Debug\net5.0\02_Produto.genruntimeconfig.cache

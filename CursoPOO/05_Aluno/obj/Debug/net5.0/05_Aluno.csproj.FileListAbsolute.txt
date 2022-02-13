@@ -1,0 +1,15 @@
+D:\codigo-c#\C#-udemyNelio\CursoPOO\05_Aluno\bin\Debug\net5.0\05_Aluno.exe
+D:\codigo-c#\C#-udemyNelio\CursoPOO\05_Aluno\bin\Debug\net5.0\05_Aluno.deps.json
+D:\codigo-c#\C#-udemyNelio\CursoPOO\05_Aluno\bin\Debug\net5.0\05_Aluno.runtimeconfig.json
+D:\codigo-c#\C#-udemyNelio\CursoPOO\05_Aluno\bin\Debug\net5.0\05_Aluno.runtimeconfig.dev.json
+D:\codigo-c#\C#-udemyNelio\CursoPOO\05_Aluno\bin\Debug\net5.0\05_Aluno.dll
+D:\codigo-c#\C#-udemyNelio\CursoPOO\05_Aluno\bin\Debug\net5.0\ref\05_Aluno.dll
+D:\codigo-c#\C#-udemyNelio\CursoPOO\05_Aluno\bin\Debug\net5.0\05_Aluno.pdb
+D:\codigo-c#\C#-udemyNelio\CursoPOO\05_Aluno\obj\Debug\net5.0\05_Aluno.GeneratedMSBuildEditorConfig.editorconfig
+D:\codigo-c#\C#-udemyNelio\CursoPOO\05_Aluno\obj\Debug\net5.0\05_Aluno.AssemblyInfoInputs.cache
+D:\codigo-c#\C#-udemyNelio\CursoPOO\05_Aluno\obj\Debug\net5.0\05_Aluno.AssemblyInfo.cs
+D:\codigo-c#\C#-udemyNelio\CursoPOO\05_Aluno\obj\Debug\net5.0\05_Aluno.csproj.CoreCompileInputs.cache
+D:\codigo-c#\C#-udemyNelio\CursoPOO\05_Aluno\obj\Debug\net5.0\05_Aluno.dll
+D:\codigo-c#\C#-udemyNelio\CursoPOO\05_Aluno\obj\Debug\net5.0\ref\05_Aluno.dll
+D:\codigo-c#\C#-udemyNelio\CursoPOO\05_Aluno\obj\Debug\net5.0\05_Aluno.pdb
+D:\codigo-c#\C#-udemyNelio\CursoPOO\05_Aluno\obj\Debug\net5.0\05_Aluno.genruntimeconfig.cache

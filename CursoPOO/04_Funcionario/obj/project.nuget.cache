@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e0A+Q29AW87dqtNDM8WvOQ3CVGN2CzqOmoKWfsuPO4NqiYx/x6osw3Pbsn1dNTEqV0G0oeSK4BNwREfgdObS3Q==",
+  "success": true,
+  "projectFilePath": "D:\\codigo-c#\\C#-udemyNelio\\CursoPOO\\04_Funcionario\\04_Funcionario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leticia.mendes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

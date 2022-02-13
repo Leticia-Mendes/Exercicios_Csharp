@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4eYbClIReb0NHMmDMt1jCFHd6VEXvS55Ft4X+wnv8hWH59PnTU6kgvPyJbKnPvtc6zLNKB2BHDipnIswTKPj7w==",
+  "success": true,
+  "projectFilePath": "D:\\codigo-c#\\C#-udemyNelio\\02POO\\06_Dolar\\06_ ConversorDeMoedas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leticia.mendes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

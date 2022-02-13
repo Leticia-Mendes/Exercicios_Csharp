@@ -1,0 +1,16 @@
+D:\codigo-c#\C#-udemyNelio\02POO\06_Dolar\bin\Debug\net5.0\06_ ConversorDeMoedas.exe
+D:\codigo-c#\C#-udemyNelio\02POO\06_Dolar\bin\Debug\net5.0\06_ ConversorDeMoedas.deps.json
+D:\codigo-c#\C#-udemyNelio\02POO\06_Dolar\bin\Debug\net5.0\06_ ConversorDeMoedas.runtimeconfig.json
+D:\codigo-c#\C#-udemyNelio\02POO\06_Dolar\bin\Debug\net5.0\06_ ConversorDeMoedas.runtimeconfig.dev.json
+D:\codigo-c#\C#-udemyNelio\02POO\06_Dolar\bin\Debug\net5.0\06_ ConversorDeMoedas.dll
+D:\codigo-c#\C#-udemyNelio\02POO\06_Dolar\bin\Debug\net5.0\ref\06_ ConversorDeMoedas.dll
+D:\codigo-c#\C#-udemyNelio\02POO\06_Dolar\bin\Debug\net5.0\06_ ConversorDeMoedas.pdb
+D:\codigo-c#\C#-udemyNelio\02POO\06_Dolar\obj\Debug\net5.0\06_ ConversorDeMoedas.csproj.AssemblyReference.cache
+D:\codigo-c#\C#-udemyNelio\02POO\06_Dolar\obj\Debug\net5.0\06_ ConversorDeMoedas.GeneratedMSBuildEditorConfig.editorconfig
+D:\codigo-c#\C#-udemyNelio\02POO\06_Dolar\obj\Debug\net5.0\06_ ConversorDeMoedas.AssemblyInfoInputs.cache
+D:\codigo-c#\C#-udemyNelio\02POO\06_Dolar\obj\Debug\net5.0\06_ ConversorDeMoedas.AssemblyInfo.cs
+D:\codigo-c#\C#-udemyNelio\02POO\06_Dolar\obj\Debug\net5.0\06_ ConversorDeMoedas.csproj.CoreCompileInputs.cache
+D:\codigo-c#\C#-udemyNelio\02POO\06_Dolar\obj\Debug\net5.0\06_ ConversorDeMoedas.dll
+D:\codigo-c#\C#-udemyNelio\02POO\06_Dolar\obj\Debug\net5.0\ref\06_ ConversorDeMoedas.dll
+D:\codigo-c#\C#-udemyNelio\02POO\06_Dolar\obj\Debug\net5.0\06_ ConversorDeMoedas.pdb
+D:\codigo-c#\C#-udemyNelio\02POO\06_Dolar\obj\Debug\net5.0\06_ ConversorDeMoedas.genruntimeconfig.cache

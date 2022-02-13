@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bm3eeKd3nbxGVLn2akNUwjMEoDCBdSBvYxDbg6XFeB9Y2bk/owQszFTZrrIUcc+lmd5BB7VEjBM/d4idc9R0+g==",
+  "success": true,
+  "projectFilePath": "D:\\codigo-c#\\C#-udemyNelio\\02POO\\02_Produto\\02_Produto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leticia.mendes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

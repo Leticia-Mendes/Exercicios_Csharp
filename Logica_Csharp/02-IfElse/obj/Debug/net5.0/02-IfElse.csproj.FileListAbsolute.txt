@@ -1,0 +1,16 @@
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\02-IfElse\bin\Debug\net5.0\02-IfElse.exe
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\02-IfElse\bin\Debug\net5.0\02-IfElse.deps.json
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\02-IfElse\bin\Debug\net5.0\02-IfElse.runtimeconfig.json
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\02-IfElse\bin\Debug\net5.0\02-IfElse.runtimeconfig.dev.json
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\02-IfElse\bin\Debug\net5.0\02-IfElse.dll
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\02-IfElse\bin\Debug\net5.0\ref\02-IfElse.dll
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\02-IfElse\bin\Debug\net5.0\02-IfElse.pdb
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\02-IfElse\obj\Debug\net5.0\02-IfElse.csproj.AssemblyReference.cache
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\02-IfElse\obj\Debug\net5.0\02-IfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\02-IfElse\obj\Debug\net5.0\02-IfElse.AssemblyInfoInputs.cache
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\02-IfElse\obj\Debug\net5.0\02-IfElse.AssemblyInfo.cs
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\02-IfElse\obj\Debug\net5.0\02-IfElse.csproj.CoreCompileInputs.cache
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\02-IfElse\obj\Debug\net5.0\02-IfElse.dll
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\02-IfElse\obj\Debug\net5.0\ref\02-IfElse.dll
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\02-IfElse\obj\Debug\net5.0\02-IfElse.pdb
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\02-IfElse\obj\Debug\net5.0\02-IfElse.genruntimeconfig.cache

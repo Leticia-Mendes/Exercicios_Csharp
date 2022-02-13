@@ -1,0 +1,16 @@
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\04-For\bin\Debug\net5.0\04-For.exe
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\04-For\bin\Debug\net5.0\04-For.deps.json
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\04-For\bin\Debug\net5.0\04-For.runtimeconfig.json
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\04-For\bin\Debug\net5.0\04-For.runtimeconfig.dev.json
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\04-For\bin\Debug\net5.0\04-For.dll
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\04-For\bin\Debug\net5.0\ref\04-For.dll
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\04-For\bin\Debug\net5.0\04-For.pdb
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\04-For\obj\Debug\net5.0\04-For.csproj.AssemblyReference.cache
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\04-For\obj\Debug\net5.0\04-For.GeneratedMSBuildEditorConfig.editorconfig
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\04-For\obj\Debug\net5.0\04-For.AssemblyInfoInputs.cache
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\04-For\obj\Debug\net5.0\04-For.AssemblyInfo.cs
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\04-For\obj\Debug\net5.0\04-For.csproj.CoreCompileInputs.cache
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\04-For\obj\Debug\net5.0\04-For.dll
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\04-For\obj\Debug\net5.0\ref\04-For.dll
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\04-For\obj\Debug\net5.0\04-For.pdb
+D:\codigo-c#\C#-udemyNelio\ExerciciosCsharp\04-For\obj\Debug\net5.0\04-For.genruntimeconfig.cache

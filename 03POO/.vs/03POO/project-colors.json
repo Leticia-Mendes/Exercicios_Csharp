@@ -5,7 +5,12 @@
       "ProjectGuid": "7a0f1f1f-04e4-409f-8a84-04dddcf34ecc",
       "DisplayName": "03POO",
       "ColorIndex": 0
+    },
+    "30f3c6ed-d631-4c36-90ea-a0a4024b7324": {
+      "ProjectGuid": "30f3c6ed-d631-4c36-90ea-a0a4024b7324",
+      "DisplayName": "Produto",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

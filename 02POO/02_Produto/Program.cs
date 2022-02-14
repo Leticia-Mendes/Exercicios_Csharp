@@ -7,21 +7,21 @@ namespace _02_Produto
     {
         static void Main(string[] args)
         {
-            Produto p1 = new Produto();
-
             Console.WriteLine("Entre com os dados do ptoduto: ");
             Console.Write("Nome: ");
-            p1.Nome = Console.ReadLine();
+            string nome = Console.ReadLine();
             Console.Write("Preco: ");
-            p1.Preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.Write("Quantidade: ");
-            p1.Quantidade = int.Parse(Console.ReadLine());
+            int quantidade = int.Parse(Console.ReadLine());
+
+            Produto p1 = new Produto(nome, preco, quantidade);
 
             Console.WriteLine();
-            Console.Write("Dados do Produto: " + p1);
+            Console.WriteLine("Dados do Produto: " + p1);
 
             Console.WriteLine();
-            Console.Write("Digite o número de produtos a ser adicionado ao estoque: ");
+            Console.WriteLine("Digite o número de produtos a ser adicionado ao estoque: ");
             int qte = int.Parse(Console.ReadLine());
             p1.AdicionarProduto(qte);
 

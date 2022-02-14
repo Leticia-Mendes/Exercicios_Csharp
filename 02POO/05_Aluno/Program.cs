@@ -8,31 +8,30 @@ namespace _05_Aluno
     {
         static void Main(string[] args)
         {
-            Aluno aluno = new Aluno();
-
             Console.WriteLine("Entre com as informações do aluno:");
             Console.Write("NOME: ");
-            aluno.Nome = Console.ReadLine();
+            string nome = Console.ReadLine();
             Console.Write("NOTA 1: ");
-            aluno.Nota1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            double nota1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.Write("NOTA 2: ");
-            aluno.Nota2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            double nota2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.Write("NOTA 3: ");
-            aluno.Nota3 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            double nota3 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            Aluno aluno1 = new Aluno(nome, nota1, nota2, nota3);
 
             Console.WriteLine();
-            Console.WriteLine("NOTA FINAL: " + aluno.NotaFinal().ToString("F2"), CultureInfo.InvariantCulture);
+            Console.WriteLine("NOTA FINAL: " + aluno1.NotaFinal().ToString("F2"), CultureInfo.InvariantCulture);
 
-            if (aluno.Aprovado())
+            if (aluno1.Aprovado())
             {
                 Console.WriteLine("APROVADO!");
             }
             else
             {
                 Console.WriteLine("REPROVADO.");
-                Console.WriteLine("FALTARAM: " + aluno.NotaRestante().ToString("F2", CultureInfo.InvariantCulture) + " PONTOS.");
+                Console.WriteLine("FALTARAM: " + aluno1.NotaRestante().ToString("F2", CultureInfo.InvariantCulture) + " PONTOS.");
             }
-
 
         }
     }

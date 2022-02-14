@@ -7,12 +7,12 @@ namespace _03_Retangulo
     {
         static void Main(string[] args)
         {
-            Retangulo retangulo = new Retangulo();
-
             Console.Write("Entre com a largura do retângulo: ");
-            retangulo.Largura = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            double largura = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.Write("Entre com a altura do retângulo: ");
-            retangulo.Altura = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            double altura = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            Retangulo retangulo = new Retangulo(largura, altura);
 
             Console.WriteLine("Area: " + retangulo.Area().ToString("F2", CultureInfo.InvariantCulture));
             Console.WriteLine("Perimetro: " + retangulo.Perimetro().ToString("F2", CultureInfo.InvariantCulture));

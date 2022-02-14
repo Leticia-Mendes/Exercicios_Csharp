@@ -2,8 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\02POO",
-    "\\02POO\\05_Aluno"
+    "\\02POO\\02_Produto",
+    "\\02POO\\05_Aluno",
+    "\\02POO\\06_Dolar",
+    "\\03POO",
+    "\\03POO\\03POO"
   ],
-  "SelectedNode": "\\02POO\\CursoPOO.sln",
+  "SelectedNode": "\\02POO\\06_Dolar\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

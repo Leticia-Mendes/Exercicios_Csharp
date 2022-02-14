@@ -8,6 +8,15 @@ namespace _04_Funcionario
         public double SalarioBruto;
         public double Imposto;
 
+        public Funcionario(string nome, double salarioBruto, double imposto)
+        {
+            Nome = nome;
+            SalarioBruto = salarioBruto;
+            Imposto = imposto;
+        }
+
+        public Funcionario() {}
+
         public double SalarioLiquido()
         {
             return SalarioBruto - Imposto;

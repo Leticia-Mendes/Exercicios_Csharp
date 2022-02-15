@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "byOB6/9ekxce1FUodCZRgAsDcm0Evf4puPbilAHaYLb5Yl5gBBuMguckwqwfU34Qn23wa0VovRjkhMPs8ZfHew==",
+  "success": true,
+  "projectFilePath": "D:\\codigo-c#\\C#-udemyNelio\\02POO\\07_ContaBancaria\\07_ContaBancaria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leticia.mendes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

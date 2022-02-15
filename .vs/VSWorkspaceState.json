@@ -4,10 +4,10 @@
     "\\02POO",
     "\\02POO\\02_Produto",
     "\\02POO\\05_Aluno",
-    "\\02POO\\06_Dolar",
     "\\03POO",
-    "\\03POO\\03POO"
+    "\\03POO\\03POO",
+    "\\03POO\\Produto"
   ],
-  "SelectedNode": "\\02POO\\06_Dolar\\Program.cs",
+  "SelectedNode": "\\03POO\\Produto\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

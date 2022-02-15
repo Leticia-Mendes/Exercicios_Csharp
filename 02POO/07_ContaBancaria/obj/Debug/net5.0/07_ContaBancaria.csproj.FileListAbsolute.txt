@@ -1,0 +1,16 @@
+D:\codigo-c#\C#-udemyNelio\02POO\07_ContaBancaria\bin\Debug\net5.0\07_ContaBancaria.exe
+D:\codigo-c#\C#-udemyNelio\02POO\07_ContaBancaria\bin\Debug\net5.0\07_ContaBancaria.deps.json
+D:\codigo-c#\C#-udemyNelio\02POO\07_ContaBancaria\bin\Debug\net5.0\07_ContaBancaria.runtimeconfig.json
+D:\codigo-c#\C#-udemyNelio\02POO\07_ContaBancaria\bin\Debug\net5.0\07_ContaBancaria.runtimeconfig.dev.json
+D:\codigo-c#\C#-udemyNelio\02POO\07_ContaBancaria\bin\Debug\net5.0\07_ContaBancaria.dll
+D:\codigo-c#\C#-udemyNelio\02POO\07_ContaBancaria\bin\Debug\net5.0\ref\07_ContaBancaria.dll
+D:\codigo-c#\C#-udemyNelio\02POO\07_ContaBancaria\bin\Debug\net5.0\07_ContaBancaria.pdb
+D:\codigo-c#\C#-udemyNelio\02POO\07_ContaBancaria\obj\Debug\net5.0\07_ContaBancaria.csproj.AssemblyReference.cache
+D:\codigo-c#\C#-udemyNelio\02POO\07_ContaBancaria\obj\Debug\net5.0\07_ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\codigo-c#\C#-udemyNelio\02POO\07_ContaBancaria\obj\Debug\net5.0\07_ContaBancaria.AssemblyInfoInputs.cache
+D:\codigo-c#\C#-udemyNelio\02POO\07_ContaBancaria\obj\Debug\net5.0\07_ContaBancaria.AssemblyInfo.cs
+D:\codigo-c#\C#-udemyNelio\02POO\07_ContaBancaria\obj\Debug\net5.0\07_ContaBancaria.csproj.CoreCompileInputs.cache
+D:\codigo-c#\C#-udemyNelio\02POO\07_ContaBancaria\obj\Debug\net5.0\07_ContaBancaria.dll
+D:\codigo-c#\C#-udemyNelio\02POO\07_ContaBancaria\obj\Debug\net5.0\ref\07_ContaBancaria.dll
+D:\codigo-c#\C#-udemyNelio\02POO\07_ContaBancaria\obj\Debug\net5.0\07_ContaBancaria.pdb
+D:\codigo-c#\C#-udemyNelio\02POO\07_ContaBancaria\obj\Debug\net5.0\07_ContaBancaria.genruntimeconfig.cache

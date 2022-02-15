@@ -45,7 +45,12 @@
       "ProjectGuid": "c4115304-c76c-4517-83cf-a9eb96e807b8",
       "DisplayName": "06_ ConversorDeMoedas",
       "ColorIndex": 7
+    },
+    "15be8670-05ea-4b86-bd8a-59fe31cfabdc": {
+      "ProjectGuid": "15be8670-05ea-4b86-bd8a-59fe31cfabdc",
+      "DisplayName": "07_ContaBancaria",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 9
 }

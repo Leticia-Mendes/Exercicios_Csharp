@@ -14,7 +14,6 @@
             Nota2 = nota2;
             Nota3 = nota3;
         }
-
         public string Nome
         {
             get { return _nome; }
@@ -25,7 +24,6 @@
 
             }
         }
-
 
         public double NotaFinal()
         {

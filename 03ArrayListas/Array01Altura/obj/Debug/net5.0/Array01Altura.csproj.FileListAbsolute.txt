@@ -1,0 +1,16 @@
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array01Altura\bin\Debug\net5.0\Array01Altura.exe
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array01Altura\bin\Debug\net5.0\Array01Altura.deps.json
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array01Altura\bin\Debug\net5.0\Array01Altura.runtimeconfig.json
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array01Altura\bin\Debug\net5.0\Array01Altura.runtimeconfig.dev.json
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array01Altura\bin\Debug\net5.0\Array01Altura.dll
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array01Altura\bin\Debug\net5.0\ref\Array01Altura.dll
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array01Altura\bin\Debug\net5.0\Array01Altura.pdb
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array01Altura\obj\Debug\net5.0\Array01Altura.csproj.AssemblyReference.cache
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array01Altura\obj\Debug\net5.0\Array01Altura.GeneratedMSBuildEditorConfig.editorconfig
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array01Altura\obj\Debug\net5.0\Array01Altura.AssemblyInfoInputs.cache
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array01Altura\obj\Debug\net5.0\Array01Altura.AssemblyInfo.cs
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array01Altura\obj\Debug\net5.0\Array01Altura.csproj.CoreCompileInputs.cache
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array01Altura\obj\Debug\net5.0\Array01Altura.dll
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array01Altura\obj\Debug\net5.0\ref\Array01Altura.dll
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array01Altura\obj\Debug\net5.0\Array01Altura.pdb
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array01Altura\obj\Debug\net5.0\Array01Altura.genruntimeconfig.cache

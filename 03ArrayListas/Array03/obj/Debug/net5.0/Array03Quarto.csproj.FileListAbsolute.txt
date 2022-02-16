@@ -1,0 +1,16 @@
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array03\bin\Debug\net5.0\Array03Quarto.exe
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array03\bin\Debug\net5.0\Array03Quarto.deps.json
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array03\bin\Debug\net5.0\Array03Quarto.runtimeconfig.json
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array03\bin\Debug\net5.0\Array03Quarto.runtimeconfig.dev.json
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array03\bin\Debug\net5.0\Array03Quarto.dll
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array03\bin\Debug\net5.0\ref\Array03Quarto.dll
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array03\bin\Debug\net5.0\Array03Quarto.pdb
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array03\obj\Debug\net5.0\Array03Quarto.csproj.AssemblyReference.cache
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array03\obj\Debug\net5.0\Array03Quarto.GeneratedMSBuildEditorConfig.editorconfig
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array03\obj\Debug\net5.0\Array03Quarto.AssemblyInfoInputs.cache
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array03\obj\Debug\net5.0\Array03Quarto.AssemblyInfo.cs
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array03\obj\Debug\net5.0\Array03Quarto.csproj.CoreCompileInputs.cache
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array03\obj\Debug\net5.0\Array03Quarto.dll
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array03\obj\Debug\net5.0\ref\Array03Quarto.dll
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array03\obj\Debug\net5.0\Array03Quarto.pdb
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Array03\obj\Debug\net5.0\Array03Quarto.genruntimeconfig.cache

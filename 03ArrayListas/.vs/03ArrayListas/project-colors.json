@@ -25,7 +25,17 @@
       "ProjectGuid": "2aeac74b-8242-44ae-8b1d-6ed6470b4d94",
       "DisplayName": "Array03Quarto",
       "ColorIndex": 3
+    },
+    "38735275-f851-429d-91d3-e37ce91ce122": {
+      "ProjectGuid": "38735275-f851-429d-91d3-e37ce91ce122",
+      "DisplayName": "List01",
+      "ColorIndex": 4
+    },
+    "b4d4b3ac-6cee-4e9f-999f-7afdd3a59d68": {
+      "ProjectGuid": "b4d4b3ac-6cee-4e9f-999f-7afdd3a59d68",
+      "DisplayName": "List02Funcionario",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 6
 }

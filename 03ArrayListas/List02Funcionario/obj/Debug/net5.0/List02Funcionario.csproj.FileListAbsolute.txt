@@ -1,0 +1,16 @@
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List02Funcionario\bin\Debug\net5.0\List02Funcionario.exe
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List02Funcionario\bin\Debug\net5.0\List02Funcionario.deps.json
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List02Funcionario\bin\Debug\net5.0\List02Funcionario.runtimeconfig.json
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List02Funcionario\bin\Debug\net5.0\List02Funcionario.runtimeconfig.dev.json
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List02Funcionario\bin\Debug\net5.0\List02Funcionario.dll
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List02Funcionario\bin\Debug\net5.0\ref\List02Funcionario.dll
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List02Funcionario\bin\Debug\net5.0\List02Funcionario.pdb
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List02Funcionario\obj\Debug\net5.0\List02Funcionario.csproj.AssemblyReference.cache
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List02Funcionario\obj\Debug\net5.0\List02Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List02Funcionario\obj\Debug\net5.0\List02Funcionario.AssemblyInfoInputs.cache
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List02Funcionario\obj\Debug\net5.0\List02Funcionario.AssemblyInfo.cs
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List02Funcionario\obj\Debug\net5.0\List02Funcionario.csproj.CoreCompileInputs.cache
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List02Funcionario\obj\Debug\net5.0\List02Funcionario.dll
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List02Funcionario\obj\Debug\net5.0\ref\List02Funcionario.dll
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List02Funcionario\obj\Debug\net5.0\List02Funcionario.pdb
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List02Funcionario\obj\Debug\net5.0\List02Funcionario.genruntimeconfig.cache

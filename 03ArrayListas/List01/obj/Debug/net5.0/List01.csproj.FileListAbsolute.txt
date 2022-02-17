@@ -1,0 +1,16 @@
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List01\bin\Debug\net5.0\List01.exe
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List01\bin\Debug\net5.0\List01.deps.json
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List01\bin\Debug\net5.0\List01.runtimeconfig.json
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List01\bin\Debug\net5.0\List01.runtimeconfig.dev.json
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List01\bin\Debug\net5.0\List01.dll
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List01\bin\Debug\net5.0\ref\List01.dll
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List01\bin\Debug\net5.0\List01.pdb
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List01\obj\Debug\net5.0\List01.csproj.AssemblyReference.cache
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List01\obj\Debug\net5.0\List01.GeneratedMSBuildEditorConfig.editorconfig
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List01\obj\Debug\net5.0\List01.AssemblyInfoInputs.cache
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List01\obj\Debug\net5.0\List01.AssemblyInfo.cs
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List01\obj\Debug\net5.0\List01.csproj.CoreCompileInputs.cache
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List01\obj\Debug\net5.0\List01.dll
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List01\obj\Debug\net5.0\ref\List01.dll
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List01\obj\Debug\net5.0\List01.pdb
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\List01\obj\Debug\net5.0\List01.genruntimeconfig.cache

@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c774d64b-c5ad-414f-8a62-58179d719845": {
+      "ProjectGuid": "c774d64b-c5ad-414f-8a62-58179d719845",
+      "DisplayName": "Array03Quartos",
+      "ColorIndex": 0
+    },
+    "8280e17e-792f-4a14-9724-b77f0901acb2": {
+      "ProjectGuid": "8280e17e-792f-4a14-9724-b77f0901acb2",
+      "DisplayName": "Array02Produto",
+      "ColorIndex": 1
+    },
+    "b5cd816c-ea8c-440f-b2e8-fb670de32637": {
+      "ProjectGuid": "b5cd816c-ea8c-440f-b2e8-fb670de32637",
+      "DisplayName": "Array01Altura",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "2aeac74b-8242-44ae-8b1d-6ed6470b4d94": {
+      "ProjectGuid": "2aeac74b-8242-44ae-8b1d-6ed6470b4d94",
+      "DisplayName": "Array03Quarto",
+      "ColorIndex": 3
+    },
+    "38735275-f851-429d-91d3-e37ce91ce122": {
+      "ProjectGuid": "38735275-f851-429d-91d3-e37ce91ce122",
+      "DisplayName": "List01",
+      "ColorIndex": 4
+    },
+    "b4d4b3ac-6cee-4e9f-999f-7afdd3a59d68": {
+      "ProjectGuid": "b4d4b3ac-6cee-4e9f-999f-7afdd3a59d68",
+      "DisplayName": "List02Funcionario",
+      "ColorIndex": 5
+    },
+    "9db1ccf3-8718-49e1-89f0-2ef572e767b7": {
+      "ProjectGuid": "9db1ccf3-8718-49e1-89f0-2ef572e767b7",
+      "DisplayName": "Matriz01",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

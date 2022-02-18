@@ -1,0 +1,16 @@
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Matriz01\bin\Debug\net5.0\Matriz01.exe
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Matriz01\bin\Debug\net5.0\Matriz01.deps.json
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Matriz01\bin\Debug\net5.0\Matriz01.runtimeconfig.json
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Matriz01\bin\Debug\net5.0\Matriz01.runtimeconfig.dev.json
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Matriz01\bin\Debug\net5.0\Matriz01.dll
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Matriz01\bin\Debug\net5.0\ref\Matriz01.dll
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Matriz01\bin\Debug\net5.0\Matriz01.pdb
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Matriz01\obj\Debug\net5.0\Matriz01.csproj.AssemblyReference.cache
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Matriz01\obj\Debug\net5.0\Matriz01.GeneratedMSBuildEditorConfig.editorconfig
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Matriz01\obj\Debug\net5.0\Matriz01.AssemblyInfoInputs.cache
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Matriz01\obj\Debug\net5.0\Matriz01.AssemblyInfo.cs
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Matriz01\obj\Debug\net5.0\Matriz01.csproj.CoreCompileInputs.cache
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Matriz01\obj\Debug\net5.0\Matriz01.dll
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Matriz01\obj\Debug\net5.0\ref\Matriz01.dll
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Matriz01\obj\Debug\net5.0\Matriz01.pdb
+D:\codigo-c#\C#-udemyNelio\03ArrayListas\Matriz01\obj\Debug\net5.0\Matriz01.genruntimeconfig.cache

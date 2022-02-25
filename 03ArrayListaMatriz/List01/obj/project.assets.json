@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListas\\List01\\List01.csproj",
+      "projectUniqueName": "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListaMatriz\\List01\\List01.csproj",
       "projectName": "List01",
-      "projectPath": "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListas\\List01\\List01.csproj",
+      "projectPath": "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListaMatriz\\List01\\List01.csproj",
       "packagesPath": "C:\\Users\\leticia.mendes\\.nuget\\packages\\",
-      "outputPath": "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListas\\List01\\obj\\",
+      "outputPath": "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListaMatriz\\List01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

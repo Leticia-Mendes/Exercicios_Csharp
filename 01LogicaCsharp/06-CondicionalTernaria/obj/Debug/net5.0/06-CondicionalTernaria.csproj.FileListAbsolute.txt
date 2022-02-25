@@ -1,0 +1,16 @@
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\06-CondicionalTernaria\bin\Debug\net5.0\06-CondicionalTernaria.exe
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\06-CondicionalTernaria\bin\Debug\net5.0\06-CondicionalTernaria.deps.json
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\06-CondicionalTernaria\bin\Debug\net5.0\06-CondicionalTernaria.runtimeconfig.json
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\06-CondicionalTernaria\bin\Debug\net5.0\06-CondicionalTernaria.runtimeconfig.dev.json
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\06-CondicionalTernaria\bin\Debug\net5.0\06-CondicionalTernaria.dll
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\06-CondicionalTernaria\bin\Debug\net5.0\ref\06-CondicionalTernaria.dll
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\06-CondicionalTernaria\bin\Debug\net5.0\06-CondicionalTernaria.pdb
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\06-CondicionalTernaria\obj\Debug\net5.0\06-CondicionalTernaria.csproj.AssemblyReference.cache
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\06-CondicionalTernaria\obj\Debug\net5.0\06-CondicionalTernaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\06-CondicionalTernaria\obj\Debug\net5.0\06-CondicionalTernaria.AssemblyInfoInputs.cache
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\06-CondicionalTernaria\obj\Debug\net5.0\06-CondicionalTernaria.AssemblyInfo.cs
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\06-CondicionalTernaria\obj\Debug\net5.0\06-CondicionalTernaria.csproj.CoreCompileInputs.cache
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\06-CondicionalTernaria\obj\Debug\net5.0\06-CondicionalTernaria.dll
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\06-CondicionalTernaria\obj\Debug\net5.0\ref\06-CondicionalTernaria.dll
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\06-CondicionalTernaria\obj\Debug\net5.0\06-CondicionalTernaria.pdb
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\06-CondicionalTernaria\obj\Debug\net5.0\06-CondicionalTernaria.genruntimeconfig.cache

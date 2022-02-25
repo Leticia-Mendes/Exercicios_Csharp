@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListas\\Array02Produto\\Array02Produto.csproj",
+      "projectUniqueName": "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListaMatriz\\Array02Produto\\Array02Produto.csproj",
       "projectName": "Array02Produto",
-      "projectPath": "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListas\\Array02Produto\\Array02Produto.csproj",
+      "projectPath": "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListaMatriz\\Array02Produto\\Array02Produto.csproj",
       "packagesPath": "C:\\Users\\leticia.mendes\\.nuget\\packages\\",
-      "outputPath": "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListas\\Array02Produto\\obj\\",
+      "outputPath": "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListaMatriz\\Array02Produto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

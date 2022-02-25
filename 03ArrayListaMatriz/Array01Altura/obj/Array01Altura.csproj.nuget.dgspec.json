@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListas\\Array01Altura\\Array01Altura.csproj": {}
+    "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListaMatriz\\Array01Altura\\Array01Altura.csproj": {}
   },
   "projects": {
-    "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListas\\Array01Altura\\Array01Altura.csproj": {
+    "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListaMatriz\\Array01Altura\\Array01Altura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListas\\Array01Altura\\Array01Altura.csproj",
+        "projectUniqueName": "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListaMatriz\\Array01Altura\\Array01Altura.csproj",
         "projectName": "Array01Altura",
-        "projectPath": "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListas\\Array01Altura\\Array01Altura.csproj",
+        "projectPath": "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListaMatriz\\Array01Altura\\Array01Altura.csproj",
         "packagesPath": "C:\\Users\\leticia.mendes\\.nuget\\packages\\",
-        "outputPath": "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListas\\Array01Altura\\obj\\",
+        "outputPath": "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListaMatriz\\Array01Altura\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\codigo-c#\\C#-udemyNelio\\ExerciciosCsharp\\02-IfElse\\02-IfElse.csproj",
+      "projectUniqueName": "D:\\codigo-c#\\C#-udemyNelio\\01LogicaCsharp\\02-IfElse\\02-IfElse.csproj",
       "projectName": "02-IfElse",
-      "projectPath": "D:\\codigo-c#\\C#-udemyNelio\\ExerciciosCsharp\\02-IfElse\\02-IfElse.csproj",
+      "projectPath": "D:\\codigo-c#\\C#-udemyNelio\\01LogicaCsharp\\02-IfElse\\02-IfElse.csproj",
       "packagesPath": "C:\\Users\\leticia.mendes\\.nuget\\packages\\",
-      "outputPath": "D:\\codigo-c#\\C#-udemyNelio\\ExerciciosCsharp\\02-IfElse\\obj\\",
+      "outputPath": "D:\\codigo-c#\\C#-udemyNelio\\01LogicaCsharp\\02-IfElse\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

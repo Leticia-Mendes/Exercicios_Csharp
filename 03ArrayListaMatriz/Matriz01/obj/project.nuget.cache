@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TU0Wl7ylbuasPYjzxVo+To9oVr1L22GVAxTrqldQcONPP5jwPM9B83TATA+X6QnOJxv0GPXZcsOn2CYoguiOkQ==",
+  "dgSpecHash": "/OvIbmzyFZR2WuaaWmFhEfsXCzA2865KoD9vXFSbM4EMQZR8karhr+aX4wHEcWWW5zpq8L9A9DNPeUTlbEQzyA==",
   "success": true,
-  "projectFilePath": "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListas\\Matriz01\\Matriz01.csproj",
+  "projectFilePath": "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListaMatriz\\Matriz01\\Matriz01.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leticia.mendes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],

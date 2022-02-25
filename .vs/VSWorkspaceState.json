@@ -1,9 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\01LogicaCsharp",
+    "\\01LogicaCsharp\\04-For",
+    "\\01LogicaCsharp\\06-CondicionalTernaria",
+    "\\02POO",
     "\\02POO\\02_Produto",
     "\\02POO\\05_Aluno",
-    "\\02POO\\07_ContaBancaria"
+    "\\02POO\\07_ContaBancaria",
+    "\\03ArrayListaMatriz",
+    "\\03ArrayListaMatriz\\Matriz01"
   ],
+  "SelectedNode": "\\03ArrayListaMatriz\\Matriz01\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

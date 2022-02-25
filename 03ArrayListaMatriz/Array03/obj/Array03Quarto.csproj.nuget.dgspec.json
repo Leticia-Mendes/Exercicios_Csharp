@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListas\\Array03\\Array03Quarto.csproj": {}
+    "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListaMatriz\\Array03\\Array03Quarto.csproj": {}
   },
   "projects": {
-    "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListas\\Array03\\Array03Quarto.csproj": {
+    "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListaMatriz\\Array03\\Array03Quarto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListas\\Array03\\Array03Quarto.csproj",
+        "projectUniqueName": "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListaMatriz\\Array03\\Array03Quarto.csproj",
         "projectName": "Array03Quarto",
-        "projectPath": "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListas\\Array03\\Array03Quarto.csproj",
+        "projectPath": "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListaMatriz\\Array03\\Array03Quarto.csproj",
         "packagesPath": "C:\\Users\\leticia.mendes\\.nuget\\packages\\",
-        "outputPath": "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListas\\Array03\\obj\\",
+        "outputPath": "D:\\codigo-c#\\C#-udemyNelio\\03ArrayListaMatriz\\Array03\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

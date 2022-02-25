@@ -25,7 +25,17 @@
       "ProjectGuid": "ff5a0bd8-159f-4742-886d-e94f69bb2d90",
       "DisplayName": "04-For",
       "ColorIndex": 3
+    },
+    "81c95b31-4e69-429a-aabc-995be03d5dbb": {
+      "ProjectGuid": "81c95b31-4e69-429a-aabc-995be03d5dbb",
+      "DisplayName": "05-Switch",
+      "ColorIndex": 4
+    },
+    "d95bddbd-bc1b-4477-8094-133e4cc78f26": {
+      "ProjectGuid": "d95bddbd-bc1b-4477-8094-133e4cc78f26",
+      "DisplayName": "06-CondicionalTernaria",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 6
 }

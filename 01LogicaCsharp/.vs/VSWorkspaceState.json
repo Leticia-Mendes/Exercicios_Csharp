@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\02-IfElse",
-    "\\04-For",
-    "\\ExerciciosCsharp"
+    "\\04-For"
   ],
-  "SelectedNode": "\\LogicaCsharp.sln",
+  "SelectedNode": "\\04-For\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

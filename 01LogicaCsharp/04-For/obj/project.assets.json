@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\codigo-c#\\C#-udemyNelio\\ExerciciosCsharp\\04-For\\04-For.csproj",
+      "projectUniqueName": "D:\\codigo-c#\\C#-udemyNelio\\01LogicaCsharp\\04-For\\04-For.csproj",
       "projectName": "04-For",
-      "projectPath": "D:\\codigo-c#\\C#-udemyNelio\\ExerciciosCsharp\\04-For\\04-For.csproj",
+      "projectPath": "D:\\codigo-c#\\C#-udemyNelio\\01LogicaCsharp\\04-For\\04-For.csproj",
       "packagesPath": "C:\\Users\\leticia.mendes\\.nuget\\packages\\",
-      "outputPath": "D:\\codigo-c#\\C#-udemyNelio\\ExerciciosCsharp\\04-For\\obj\\",
+      "outputPath": "D:\\codigo-c#\\C#-udemyNelio\\01LogicaCsharp\\04-For\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

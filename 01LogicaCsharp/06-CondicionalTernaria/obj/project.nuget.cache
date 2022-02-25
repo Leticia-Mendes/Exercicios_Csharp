@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SqsGbw0HKXr+XMa5AWJErTCIWv69sM7Ow7Z7c8X4mNHaXQSByYrVTethUKUhj/6SUCxKYFx9BjM1ZoEoc132Qg==",
+  "success": true,
+  "projectFilePath": "D:\\codigo-c#\\C#-udemyNelio\\01LogicaCsharp\\06-CondicionalTernaria\\06-CondicionalTernaria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leticia.mendes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

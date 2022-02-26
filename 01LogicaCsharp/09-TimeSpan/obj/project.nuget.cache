@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "djQkIuMc37setwQegBLdlt3W5k6Zlf0B253pWSzracRB8jlXi6Jw8ae1Ay8GTFGTl2f9iAmONMWelL4SGWdDkQ==",
+  "success": true,
+  "projectFilePath": "D:\\codigo-c#\\C#-udemyNelio\\01LogicaCsharp\\09-TimeSpan\\09-TimeSpan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leticia.mendes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

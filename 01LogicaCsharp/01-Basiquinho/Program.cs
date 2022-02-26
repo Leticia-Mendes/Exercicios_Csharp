@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace ExerciciosCsharp
+namespace _01_Basiquinho
 {
     internal class Program
     {
@@ -123,7 +123,7 @@ namespace ExerciciosCsharp
             Console.WriteLine("TRAPEZIO: " + trapezio.ToString("F3", CultureInfo.InvariantCulture));
             Console.WriteLine("QUADRADO: " + quadrado.ToString("F3", CultureInfo.InvariantCulture));
             Console.WriteLine("RETANGULO: " + retangulo.ToString("F3", CultureInfo.InvariantCulture));
-            
+
             Console.WriteLine("---------------------------------------");
 
         }

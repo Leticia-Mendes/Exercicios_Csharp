@@ -9,6 +9,8 @@ namespace _06_CondicionalTernaria
         {
             // (condição) ? valor_se_verdadeiro : valor_se_falso
 
+            Console.Write("Digite o preço R$");
+
             double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             double desconto = (preco < 20) ? preco * 0.1 : preco * 0.2;
             double total = preco - desconto;

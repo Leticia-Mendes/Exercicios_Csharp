@@ -1,0 +1,16 @@
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\05-Switch\bin\Debug\net5.0\05-Switch.exe
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\05-Switch\bin\Debug\net5.0\05-Switch.deps.json
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\05-Switch\bin\Debug\net5.0\05-Switch.runtimeconfig.json
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\05-Switch\bin\Debug\net5.0\05-Switch.runtimeconfig.dev.json
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\05-Switch\bin\Debug\net5.0\05-Switch.dll
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\05-Switch\bin\Debug\net5.0\ref\05-Switch.dll
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\05-Switch\bin\Debug\net5.0\05-Switch.pdb
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\05-Switch\obj\Debug\net5.0\05-Switch.csproj.AssemblyReference.cache
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\05-Switch\obj\Debug\net5.0\05-Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\05-Switch\obj\Debug\net5.0\05-Switch.AssemblyInfoInputs.cache
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\05-Switch\obj\Debug\net5.0\05-Switch.AssemblyInfo.cs
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\05-Switch\obj\Debug\net5.0\05-Switch.csproj.CoreCompileInputs.cache
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\05-Switch\obj\Debug\net5.0\05-Switch.dll
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\05-Switch\obj\Debug\net5.0\ref\05-Switch.dll
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\05-Switch\obj\Debug\net5.0\05-Switch.pdb
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\05-Switch\obj\Debug\net5.0\05-Switch.genruntimeconfig.cache

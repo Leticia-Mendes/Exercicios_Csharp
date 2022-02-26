@@ -2,15 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\01LogicaCsharp",
-    "\\01LogicaCsharp\\04-For",
-    "\\01LogicaCsharp\\06-CondicionalTernaria",
-    "\\02POO",
-    "\\02POO\\02_Produto",
-    "\\02POO\\05_Aluno",
-    "\\02POO\\07_ContaBancaria",
-    "\\03ArrayListaMatriz",
-    "\\03ArrayListaMatriz\\Matriz01"
+    "\\01LogicaCsharp\\08-DateTime",
+    "\\02POO"
   ],
-  "SelectedNode": "\\03ArrayListaMatriz\\Matriz01\\Program.cs",
+  "SelectedNode": "\\01LogicaCsharp\\08-DateTime\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

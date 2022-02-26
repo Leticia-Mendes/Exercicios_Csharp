@@ -35,7 +35,27 @@
       "ProjectGuid": "d95bddbd-bc1b-4477-8094-133e4cc78f26",
       "DisplayName": "06-CondicionalTernaria",
       "ColorIndex": 5
+    },
+    "7338b65c-d397-456b-9e43-e9e0219e1776": {
+      "ProjectGuid": "7338b65c-d397-456b-9e43-e9e0219e1776",
+      "DisplayName": "01-Basiquinho",
+      "ColorIndex": 6
+    },
+    "aef8d4d8-a377-49f5-b83b-c88483ca03d7": {
+      "ProjectGuid": "aef8d4d8-a377-49f5-b83b-c88483ca03d7",
+      "DisplayName": "07-OutrasFuncoes",
+      "ColorIndex": 7
+    },
+    "9a7aabe9-a20f-48b3-9094-02a1a41dfc95": {
+      "ProjectGuid": "9a7aabe9-a20f-48b3-9094-02a1a41dfc95",
+      "DisplayName": "08-DateTime",
+      "ColorIndex": 8
+    },
+    "1d11d871-b39f-495f-b599-4e404cfc1777": {
+      "ProjectGuid": "1d11d871-b39f-495f-b599-4e404cfc1777",
+      "DisplayName": "09-TimeSpan",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 10
 }

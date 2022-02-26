@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\codigo-c#\\C#-udemyNelio\\ExerciciosCsharp\\ExerciciosCsharp\\01-Basiquinho.csproj",
+      "projectUniqueName": "D:\\codigo-c#\\C#-udemyNelio\\01LogicaCsharp\\01-Basiquinho\\01-Basiquinho.csproj",
       "projectName": "01-Basiquinho",
-      "projectPath": "D:\\codigo-c#\\C#-udemyNelio\\ExerciciosCsharp\\ExerciciosCsharp\\01-Basiquinho.csproj",
+      "projectPath": "D:\\codigo-c#\\C#-udemyNelio\\01LogicaCsharp\\01-Basiquinho\\01-Basiquinho.csproj",
       "packagesPath": "C:\\Users\\leticia.mendes\\.nuget\\packages\\",
-      "outputPath": "D:\\codigo-c#\\C#-udemyNelio\\ExerciciosCsharp\\ExerciciosCsharp\\obj\\",
+      "outputPath": "D:\\codigo-c#\\C#-udemyNelio\\01LogicaCsharp\\01-Basiquinho\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

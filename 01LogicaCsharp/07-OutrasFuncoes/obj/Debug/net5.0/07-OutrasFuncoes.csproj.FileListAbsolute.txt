@@ -1,0 +1,16 @@
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\07-OutrasFuncoes\bin\Debug\net5.0\07-OutrasFuncoes.exe
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\07-OutrasFuncoes\bin\Debug\net5.0\07-OutrasFuncoes.deps.json
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\07-OutrasFuncoes\bin\Debug\net5.0\07-OutrasFuncoes.runtimeconfig.json
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\07-OutrasFuncoes\bin\Debug\net5.0\07-OutrasFuncoes.runtimeconfig.dev.json
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\07-OutrasFuncoes\bin\Debug\net5.0\07-OutrasFuncoes.dll
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\07-OutrasFuncoes\bin\Debug\net5.0\ref\07-OutrasFuncoes.dll
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\07-OutrasFuncoes\bin\Debug\net5.0\07-OutrasFuncoes.pdb
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\07-OutrasFuncoes\obj\Debug\net5.0\07-OutrasFuncoes.csproj.AssemblyReference.cache
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\07-OutrasFuncoes\obj\Debug\net5.0\07-OutrasFuncoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\07-OutrasFuncoes\obj\Debug\net5.0\07-OutrasFuncoes.AssemblyInfoInputs.cache
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\07-OutrasFuncoes\obj\Debug\net5.0\07-OutrasFuncoes.AssemblyInfo.cs
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\07-OutrasFuncoes\obj\Debug\net5.0\07-OutrasFuncoes.csproj.CoreCompileInputs.cache
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\07-OutrasFuncoes\obj\Debug\net5.0\07-OutrasFuncoes.dll
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\07-OutrasFuncoes\obj\Debug\net5.0\ref\07-OutrasFuncoes.dll
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\07-OutrasFuncoes\obj\Debug\net5.0\07-OutrasFuncoes.pdb
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\07-OutrasFuncoes\obj\Debug\net5.0\07-OutrasFuncoes.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\09-TimeSpan\bin\Debug\net5.0\09-TimeSpan.exe
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\09-TimeSpan\bin\Debug\net5.0\09-TimeSpan.deps.json
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\09-TimeSpan\bin\Debug\net5.0\09-TimeSpan.runtimeconfig.json
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\09-TimeSpan\bin\Debug\net5.0\09-TimeSpan.runtimeconfig.dev.json
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\09-TimeSpan\bin\Debug\net5.0\09-TimeSpan.dll
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\09-TimeSpan\bin\Debug\net5.0\ref\09-TimeSpan.dll
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\09-TimeSpan\bin\Debug\net5.0\09-TimeSpan.pdb
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\09-TimeSpan\obj\Debug\net5.0\09-TimeSpan.csproj.AssemblyReference.cache
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\09-TimeSpan\obj\Debug\net5.0\09-TimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\09-TimeSpan\obj\Debug\net5.0\09-TimeSpan.AssemblyInfoInputs.cache
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\09-TimeSpan\obj\Debug\net5.0\09-TimeSpan.AssemblyInfo.cs
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\09-TimeSpan\obj\Debug\net5.0\09-TimeSpan.csproj.CoreCompileInputs.cache
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\09-TimeSpan\obj\Debug\net5.0\09-TimeSpan.dll
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\09-TimeSpan\obj\Debug\net5.0\ref\09-TimeSpan.dll
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\09-TimeSpan\obj\Debug\net5.0\09-TimeSpan.pdb
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\09-TimeSpan\obj\Debug\net5.0\09-TimeSpan.genruntimeconfig.cache

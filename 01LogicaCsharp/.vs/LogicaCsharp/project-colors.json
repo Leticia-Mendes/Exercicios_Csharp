@@ -55,7 +55,22 @@
       "ProjectGuid": "1d11d871-b39f-495f-b599-4e404cfc1777",
       "DisplayName": "09-TimeSpan",
       "ColorIndex": 9
+    },
+    "fe6731e1-aacc-44e6-b849-f6952f5854b1": {
+      "ProjectGuid": "fe6731e1-aacc-44e6-b849-f6952f5854b1",
+      "DisplayName": "10-PropDateTime",
+      "ColorIndex": 10
+    },
+    "90f844a0-e3ce-432d-a853-72b258994ab2": {
+      "ProjectGuid": "90f844a0-e3ce-432d-a853-72b258994ab2",
+      "DisplayName": "11-PropTimeSpan",
+      "ColorIndex": 11
+    },
+    "ced70257-ef46-40c2-bf50-fed9901bbcb8": {
+      "ProjectGuid": "ced70257-ef46-40c2-bf50-fed9901bbcb8",
+      "DisplayName": "12-DateTimeFuso",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 10
+  "NextColorIndex": 13
 }

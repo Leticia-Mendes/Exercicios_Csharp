@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Esu2YNeIPnNXQ9uYj5sYkyM9zYVGjWrY/mUUvEjfIyIX3PsIRMuhkTUnQjfHDcEDJ3y34WPRyNs03dKD3qlWrA==",
+  "success": true,
+  "projectFilePath": "D:\\codigo-c#\\C#-udemyNelio\\01LogicaCsharp\\11-PropTimeSpan\\11-PropTimeSpan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leticia.mendes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

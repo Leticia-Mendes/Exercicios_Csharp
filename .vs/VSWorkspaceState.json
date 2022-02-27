@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\01LogicaCsharp",
-    "\\01LogicaCsharp\\08-DateTime",
-    "\\02POO"
+    "\\01LogicaCsharp\\12-DateTimeFuso",
+    "\\02POO",
+    "\\02POO\\02_Produto"
   ],
-  "SelectedNode": "\\01LogicaCsharp\\08-DateTime\\Program.cs",
+  "SelectedNode": "\\01LogicaCsharp\\12-DateTimeFuso\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

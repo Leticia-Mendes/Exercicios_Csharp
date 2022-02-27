@@ -19,7 +19,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-OutrasFuncoes", "07-Outr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08-DateTime", "08-DateTime\08-DateTime.csproj", "{9A7AABE9-A20F-48B3-9094-02A1A41DFC95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-TimeSpan", "09-TimeSpan\09-TimeSpan.csproj", "{1D11D871-B39F-495F-B599-4E404CFC1777}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09-TimeSpan", "09-TimeSpan\09-TimeSpan.csproj", "{1D11D871-B39F-495F-B599-4E404CFC1777}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10-PropDateTime", "10-PropDateTime\10-PropDateTime.csproj", "{FE6731E1-AACC-44E6-B849-F6952F5854B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11-PropTimeSpan", "11-PropTimeSpan\11-PropTimeSpan.csproj", "{90F844A0-E3CE-432D-A853-72B258994AB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-DateTimeFuso", "12-DateTimeFuso\12-DateTimeFuso.csproj", "{CED70257-EF46-40C2-BF50-FED9901BBCB8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +69,18 @@ Global
 		{1D11D871-B39F-495F-B599-4E404CFC1777}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D11D871-B39F-495F-B599-4E404CFC1777}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D11D871-B39F-495F-B599-4E404CFC1777}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE6731E1-AACC-44E6-B849-F6952F5854B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE6731E1-AACC-44E6-B849-F6952F5854B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE6731E1-AACC-44E6-B849-F6952F5854B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE6731E1-AACC-44E6-B849-F6952F5854B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90F844A0-E3CE-432D-A853-72B258994AB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F844A0-E3CE-432D-A853-72B258994AB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F844A0-E3CE-432D-A853-72B258994AB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F844A0-E3CE-432D-A853-72B258994AB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CED70257-EF46-40C2-BF50-FED9901BBCB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CED70257-EF46-40C2-BF50-FED9901BBCB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CED70257-EF46-40C2-BF50-FED9901BBCB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CED70257-EF46-40C2-BF50-FED9901BBCB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

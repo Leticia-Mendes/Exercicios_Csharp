@@ -1,0 +1,16 @@
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\10-PropDateTime\bin\Debug\net5.0\10-PropDateTime.exe
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\10-PropDateTime\bin\Debug\net5.0\10-PropDateTime.deps.json
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\10-PropDateTime\bin\Debug\net5.0\10-PropDateTime.runtimeconfig.json
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\10-PropDateTime\bin\Debug\net5.0\10-PropDateTime.runtimeconfig.dev.json
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\10-PropDateTime\bin\Debug\net5.0\10-PropDateTime.dll
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\10-PropDateTime\bin\Debug\net5.0\ref\10-PropDateTime.dll
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\10-PropDateTime\bin\Debug\net5.0\10-PropDateTime.pdb
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\10-PropDateTime\obj\Debug\net5.0\10-PropDateTime.csproj.AssemblyReference.cache
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\10-PropDateTime\obj\Debug\net5.0\10-PropDateTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\10-PropDateTime\obj\Debug\net5.0\10-PropDateTime.AssemblyInfoInputs.cache
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\10-PropDateTime\obj\Debug\net5.0\10-PropDateTime.AssemblyInfo.cs
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\10-PropDateTime\obj\Debug\net5.0\10-PropDateTime.csproj.CoreCompileInputs.cache
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\10-PropDateTime\obj\Debug\net5.0\10-PropDateTime.dll
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\10-PropDateTime\obj\Debug\net5.0\ref\10-PropDateTime.dll
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\10-PropDateTime\obj\Debug\net5.0\10-PropDateTime.pdb
+D:\codigo-c#\C#-udemyNelio\01LogicaCsharp\10-PropDateTime\obj\Debug\net5.0\10-PropDateTime.genruntimeconfig.cache

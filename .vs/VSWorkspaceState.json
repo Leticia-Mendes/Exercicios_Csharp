@@ -1,11 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\01LogicaCsharp",
-    "\\01LogicaCsharp\\12-DateTimeFuso",
-    "\\02POO",
-    "\\02POO\\02_Produto"
+    "\\04Enum",
+    "\\04Enum\\02Worker",
+    "\\04Enum\\02Worker\\Entities",
+    "\\04Enum\\02Worker\\Entities\\Enums",
+    "\\04Enum\\04Enum"
   ],
-  "SelectedNode": "\\01LogicaCsharp\\12-DateTimeFuso\\Program.cs",
+  "SelectedNode": "\\04Enum\\02Worker\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

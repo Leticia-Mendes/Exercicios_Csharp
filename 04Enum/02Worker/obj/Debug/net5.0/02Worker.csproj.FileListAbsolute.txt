@@ -1,0 +1,16 @@
+D:\codigo-c#\C#-udemyNelio\04Enum\02Worker\bin\Debug\net5.0\02Worker.exe
+D:\codigo-c#\C#-udemyNelio\04Enum\02Worker\bin\Debug\net5.0\02Worker.deps.json
+D:\codigo-c#\C#-udemyNelio\04Enum\02Worker\bin\Debug\net5.0\02Worker.runtimeconfig.json
+D:\codigo-c#\C#-udemyNelio\04Enum\02Worker\bin\Debug\net5.0\02Worker.runtimeconfig.dev.json
+D:\codigo-c#\C#-udemyNelio\04Enum\02Worker\bin\Debug\net5.0\02Worker.dll
+D:\codigo-c#\C#-udemyNelio\04Enum\02Worker\bin\Debug\net5.0\ref\02Worker.dll
+D:\codigo-c#\C#-udemyNelio\04Enum\02Worker\bin\Debug\net5.0\02Worker.pdb
+D:\codigo-c#\C#-udemyNelio\04Enum\02Worker\obj\Debug\net5.0\02Worker.csproj.AssemblyReference.cache
+D:\codigo-c#\C#-udemyNelio\04Enum\02Worker\obj\Debug\net5.0\02Worker.GeneratedMSBuildEditorConfig.editorconfig
+D:\codigo-c#\C#-udemyNelio\04Enum\02Worker\obj\Debug\net5.0\02Worker.AssemblyInfoInputs.cache
+D:\codigo-c#\C#-udemyNelio\04Enum\02Worker\obj\Debug\net5.0\02Worker.AssemblyInfo.cs
+D:\codigo-c#\C#-udemyNelio\04Enum\02Worker\obj\Debug\net5.0\02Worker.csproj.CoreCompileInputs.cache
+D:\codigo-c#\C#-udemyNelio\04Enum\02Worker\obj\Debug\net5.0\02Worker.dll
+D:\codigo-c#\C#-udemyNelio\04Enum\02Worker\obj\Debug\net5.0\ref\02Worker.dll
+D:\codigo-c#\C#-udemyNelio\04Enum\02Worker\obj\Debug\net5.0\02Worker.pdb
+D:\codigo-c#\C#-udemyNelio\04Enum\02Worker\obj\Debug\net5.0\02Worker.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\codigo-c#\C#-udemyNelio\04Enum\04Enum\bin\Debug\net5.0\01Enum.exe
+D:\codigo-c#\C#-udemyNelio\04Enum\04Enum\bin\Debug\net5.0\01Enum.deps.json
+D:\codigo-c#\C#-udemyNelio\04Enum\04Enum\bin\Debug\net5.0\01Enum.runtimeconfig.json
+D:\codigo-c#\C#-udemyNelio\04Enum\04Enum\bin\Debug\net5.0\01Enum.runtimeconfig.dev.json
+D:\codigo-c#\C#-udemyNelio\04Enum\04Enum\bin\Debug\net5.0\01Enum.dll
+D:\codigo-c#\C#-udemyNelio\04Enum\04Enum\bin\Debug\net5.0\ref\01Enum.dll
+D:\codigo-c#\C#-udemyNelio\04Enum\04Enum\bin\Debug\net5.0\01Enum.pdb
+D:\codigo-c#\C#-udemyNelio\04Enum\04Enum\obj\Debug\net5.0\01Enum.csproj.AssemblyReference.cache
+D:\codigo-c#\C#-udemyNelio\04Enum\04Enum\obj\Debug\net5.0\01Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\codigo-c#\C#-udemyNelio\04Enum\04Enum\obj\Debug\net5.0\01Enum.AssemblyInfoInputs.cache
+D:\codigo-c#\C#-udemyNelio\04Enum\04Enum\obj\Debug\net5.0\01Enum.AssemblyInfo.cs
+D:\codigo-c#\C#-udemyNelio\04Enum\04Enum\obj\Debug\net5.0\01Enum.csproj.CoreCompileInputs.cache
+D:\codigo-c#\C#-udemyNelio\04Enum\04Enum\obj\Debug\net5.0\01Enum.dll
+D:\codigo-c#\C#-udemyNelio\04Enum\04Enum\obj\Debug\net5.0\ref\01Enum.dll
+D:\codigo-c#\C#-udemyNelio\04Enum\04Enum\obj\Debug\net5.0\01Enum.pdb
+D:\codigo-c#\C#-udemyNelio\04Enum\04Enum\obj\Debug\net5.0\01Enum.genruntimeconfig.cache

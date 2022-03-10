@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eb141060-47ff-46dc-a2c0-9c83aa70d0fe": {
+      "ProjectGuid": "eb141060-47ff-46dc-a2c0-9c83aa70d0fe",
+      "DisplayName": "Account",
+      "ColorIndex": 0
+    },
+    "59eeea69-fa13-4162-928f-66254ab44ebb": {
+      "ProjectGuid": "59eeea69-fa13-4162-928f-66254ab44ebb",
+      "DisplayName": "05Heranca",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

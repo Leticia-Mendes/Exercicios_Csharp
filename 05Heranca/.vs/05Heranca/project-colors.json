@@ -10,7 +10,12 @@
       "ProjectGuid": "59eeea69-fa13-4162-928f-66254ab44ebb",
       "DisplayName": "05Heranca",
       "ColorIndex": 1
+    },
+    "11bda680-0495-451d-9e92-d6386eadf938": {
+      "ProjectGuid": "11bda680-0495-451d-9e92-d6386eadf938",
+      "DisplayName": "PaymentEmployee",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

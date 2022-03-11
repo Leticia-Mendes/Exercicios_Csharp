@@ -1,0 +1,16 @@
+D:\codigo-c#\C#-udemyNelio\05Heranca\Employee\obj\Debug\net5.0\PaymentEmployee.csproj.AssemblyReference.cache
+D:\codigo-c#\C#-udemyNelio\05Heranca\Employee\obj\Debug\net5.0\PaymentEmployee.GeneratedMSBuildEditorConfig.editorconfig
+D:\codigo-c#\C#-udemyNelio\05Heranca\Employee\obj\Debug\net5.0\PaymentEmployee.AssemblyInfoInputs.cache
+D:\codigo-c#\C#-udemyNelio\05Heranca\Employee\obj\Debug\net5.0\PaymentEmployee.AssemblyInfo.cs
+D:\codigo-c#\C#-udemyNelio\05Heranca\Employee\obj\Debug\net5.0\PaymentEmployee.csproj.CoreCompileInputs.cache
+D:\codigo-c#\C#-udemyNelio\05Heranca\Employee\bin\Debug\net5.0\PaymentEmployee.exe
+D:\codigo-c#\C#-udemyNelio\05Heranca\Employee\bin\Debug\net5.0\PaymentEmployee.deps.json
+D:\codigo-c#\C#-udemyNelio\05Heranca\Employee\bin\Debug\net5.0\PaymentEmployee.runtimeconfig.json
+D:\codigo-c#\C#-udemyNelio\05Heranca\Employee\bin\Debug\net5.0\PaymentEmployee.runtimeconfig.dev.json
+D:\codigo-c#\C#-udemyNelio\05Heranca\Employee\bin\Debug\net5.0\PaymentEmployee.dll
+D:\codigo-c#\C#-udemyNelio\05Heranca\Employee\bin\Debug\net5.0\ref\PaymentEmployee.dll
+D:\codigo-c#\C#-udemyNelio\05Heranca\Employee\bin\Debug\net5.0\PaymentEmployee.pdb
+D:\codigo-c#\C#-udemyNelio\05Heranca\Employee\obj\Debug\net5.0\PaymentEmployee.dll
+D:\codigo-c#\C#-udemyNelio\05Heranca\Employee\obj\Debug\net5.0\ref\PaymentEmployee.dll
+D:\codigo-c#\C#-udemyNelio\05Heranca\Employee\obj\Debug\net5.0\PaymentEmployee.pdb
+D:\codigo-c#\C#-udemyNelio\05Heranca\Employee\obj\Debug\net5.0\PaymentEmployee.genruntimeconfig.cache

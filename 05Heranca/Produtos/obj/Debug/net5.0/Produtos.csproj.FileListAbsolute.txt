@@ -1,0 +1,16 @@
+D:\codigo-c#\C#-udemyNelio\05Heranca\Produtos\bin\Debug\net5.0\Produtos.exe
+D:\codigo-c#\C#-udemyNelio\05Heranca\Produtos\bin\Debug\net5.0\Produtos.deps.json
+D:\codigo-c#\C#-udemyNelio\05Heranca\Produtos\bin\Debug\net5.0\Produtos.runtimeconfig.json
+D:\codigo-c#\C#-udemyNelio\05Heranca\Produtos\bin\Debug\net5.0\Produtos.runtimeconfig.dev.json
+D:\codigo-c#\C#-udemyNelio\05Heranca\Produtos\bin\Debug\net5.0\Produtos.dll
+D:\codigo-c#\C#-udemyNelio\05Heranca\Produtos\bin\Debug\net5.0\ref\Produtos.dll
+D:\codigo-c#\C#-udemyNelio\05Heranca\Produtos\bin\Debug\net5.0\Produtos.pdb
+D:\codigo-c#\C#-udemyNelio\05Heranca\Produtos\obj\Debug\net5.0\Produtos.csproj.AssemblyReference.cache
+D:\codigo-c#\C#-udemyNelio\05Heranca\Produtos\obj\Debug\net5.0\Produtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\codigo-c#\C#-udemyNelio\05Heranca\Produtos\obj\Debug\net5.0\Produtos.AssemblyInfoInputs.cache
+D:\codigo-c#\C#-udemyNelio\05Heranca\Produtos\obj\Debug\net5.0\Produtos.AssemblyInfo.cs
+D:\codigo-c#\C#-udemyNelio\05Heranca\Produtos\obj\Debug\net5.0\Produtos.csproj.CoreCompileInputs.cache
+D:\codigo-c#\C#-udemyNelio\05Heranca\Produtos\obj\Debug\net5.0\Produtos.dll
+D:\codigo-c#\C#-udemyNelio\05Heranca\Produtos\obj\Debug\net5.0\ref\Produtos.dll
+D:\codigo-c#\C#-udemyNelio\05Heranca\Produtos\obj\Debug\net5.0\Produtos.pdb
+D:\codigo-c#\C#-udemyNelio\05Heranca\Produtos\obj\Debug\net5.0\Produtos.genruntimeconfig.cache

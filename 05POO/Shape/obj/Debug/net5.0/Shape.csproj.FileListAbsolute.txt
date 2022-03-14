@@ -1,0 +1,16 @@
+D:\codigo-c#\C#-udemyNelio\05POO\Shape\bin\Debug\net5.0\Shape.exe
+D:\codigo-c#\C#-udemyNelio\05POO\Shape\bin\Debug\net5.0\Shape.deps.json
+D:\codigo-c#\C#-udemyNelio\05POO\Shape\bin\Debug\net5.0\Shape.runtimeconfig.json
+D:\codigo-c#\C#-udemyNelio\05POO\Shape\bin\Debug\net5.0\Shape.runtimeconfig.dev.json
+D:\codigo-c#\C#-udemyNelio\05POO\Shape\bin\Debug\net5.0\Shape.dll
+D:\codigo-c#\C#-udemyNelio\05POO\Shape\bin\Debug\net5.0\ref\Shape.dll
+D:\codigo-c#\C#-udemyNelio\05POO\Shape\bin\Debug\net5.0\Shape.pdb
+D:\codigo-c#\C#-udemyNelio\05POO\Shape\obj\Debug\net5.0\Shape.csproj.AssemblyReference.cache
+D:\codigo-c#\C#-udemyNelio\05POO\Shape\obj\Debug\net5.0\Shape.GeneratedMSBuildEditorConfig.editorconfig
+D:\codigo-c#\C#-udemyNelio\05POO\Shape\obj\Debug\net5.0\Shape.AssemblyInfoInputs.cache
+D:\codigo-c#\C#-udemyNelio\05POO\Shape\obj\Debug\net5.0\Shape.AssemblyInfo.cs
+D:\codigo-c#\C#-udemyNelio\05POO\Shape\obj\Debug\net5.0\Shape.csproj.CoreCompileInputs.cache
+D:\codigo-c#\C#-udemyNelio\05POO\Shape\obj\Debug\net5.0\Shape.dll
+D:\codigo-c#\C#-udemyNelio\05POO\Shape\obj\Debug\net5.0\ref\Shape.dll
+D:\codigo-c#\C#-udemyNelio\05POO\Shape\obj\Debug\net5.0\Shape.pdb
+D:\codigo-c#\C#-udemyNelio\05POO\Shape\obj\Debug\net5.0\Shape.genruntimeconfig.cache

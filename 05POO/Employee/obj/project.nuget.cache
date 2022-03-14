@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NUUj6cNNIguTzOsMnxEJ1H0moZCCr1cawqgdCfH1BvDYQgGu/YJ767VP72spvD1lOP31kjCcY8I+Wg8tXr8iQQ==",
+  "success": true,
+  "projectFilePath": "D:\\codigo-c#\\C#-udemyNelio\\05POO\\Employee\\PaymentEmployee.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leticia.mendes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

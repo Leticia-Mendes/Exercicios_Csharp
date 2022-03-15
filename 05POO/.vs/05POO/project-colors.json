@@ -20,7 +20,12 @@
       "ProjectGuid": "c612cbf6-25ff-45dc-8963-c512b673df5e",
       "DisplayName": "Produtos",
       "ColorIndex": 3
+    },
+    "160da049-f42e-4710-94b2-d68fe28b8908": {
+      "ProjectGuid": "160da049-f42e-4710-94b2-d68fe28b8908",
+      "DisplayName": "Shape",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }

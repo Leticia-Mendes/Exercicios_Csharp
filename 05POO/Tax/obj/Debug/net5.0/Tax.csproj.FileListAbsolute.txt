@@ -1,0 +1,16 @@
+D:\codigo-c#\C#-udemyNelio\05POO\Tax\bin\Debug\net5.0\Tax.exe
+D:\codigo-c#\C#-udemyNelio\05POO\Tax\bin\Debug\net5.0\Tax.deps.json
+D:\codigo-c#\C#-udemyNelio\05POO\Tax\bin\Debug\net5.0\Tax.runtimeconfig.json
+D:\codigo-c#\C#-udemyNelio\05POO\Tax\bin\Debug\net5.0\Tax.runtimeconfig.dev.json
+D:\codigo-c#\C#-udemyNelio\05POO\Tax\bin\Debug\net5.0\Tax.dll
+D:\codigo-c#\C#-udemyNelio\05POO\Tax\bin\Debug\net5.0\ref\Tax.dll
+D:\codigo-c#\C#-udemyNelio\05POO\Tax\bin\Debug\net5.0\Tax.pdb
+D:\codigo-c#\C#-udemyNelio\05POO\Tax\obj\Debug\net5.0\Tax.csproj.AssemblyReference.cache
+D:\codigo-c#\C#-udemyNelio\05POO\Tax\obj\Debug\net5.0\Tax.GeneratedMSBuildEditorConfig.editorconfig
+D:\codigo-c#\C#-udemyNelio\05POO\Tax\obj\Debug\net5.0\Tax.AssemblyInfoInputs.cache
+D:\codigo-c#\C#-udemyNelio\05POO\Tax\obj\Debug\net5.0\Tax.AssemblyInfo.cs
+D:\codigo-c#\C#-udemyNelio\05POO\Tax\obj\Debug\net5.0\Tax.csproj.CoreCompileInputs.cache
+D:\codigo-c#\C#-udemyNelio\05POO\Tax\obj\Debug\net5.0\Tax.dll
+D:\codigo-c#\C#-udemyNelio\05POO\Tax\obj\Debug\net5.0\ref\Tax.dll
+D:\codigo-c#\C#-udemyNelio\05POO\Tax\obj\Debug\net5.0\Tax.pdb
+D:\codigo-c#\C#-udemyNelio\05POO\Tax\obj\Debug\net5.0\Tax.genruntimeconfig.cache

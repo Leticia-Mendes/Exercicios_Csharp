@@ -1,0 +1,13 @@
+C:\Users\laraujo\RepositoriosLeticia\Exercicios_Csharp\06Exception\Exception01\bin\Debug\netcoreapp3.1\Exception01.exe
+C:\Users\laraujo\RepositoriosLeticia\Exercicios_Csharp\06Exception\Exception01\bin\Debug\netcoreapp3.1\Exception01.deps.json
+C:\Users\laraujo\RepositoriosLeticia\Exercicios_Csharp\06Exception\Exception01\bin\Debug\netcoreapp3.1\Exception01.runtimeconfig.json
+C:\Users\laraujo\RepositoriosLeticia\Exercicios_Csharp\06Exception\Exception01\bin\Debug\netcoreapp3.1\Exception01.runtimeconfig.dev.json
+C:\Users\laraujo\RepositoriosLeticia\Exercicios_Csharp\06Exception\Exception01\bin\Debug\netcoreapp3.1\Exception01.dll
+C:\Users\laraujo\RepositoriosLeticia\Exercicios_Csharp\06Exception\Exception01\bin\Debug\netcoreapp3.1\Exception01.pdb
+C:\Users\laraujo\RepositoriosLeticia\Exercicios_Csharp\06Exception\Exception01\obj\Debug\netcoreapp3.1\Exception01.csprojAssemblyReference.cache
+C:\Users\laraujo\RepositoriosLeticia\Exercicios_Csharp\06Exception\Exception01\obj\Debug\netcoreapp3.1\Exception01.AssemblyInfoInputs.cache
+C:\Users\laraujo\RepositoriosLeticia\Exercicios_Csharp\06Exception\Exception01\obj\Debug\netcoreapp3.1\Exception01.AssemblyInfo.cs
+C:\Users\laraujo\RepositoriosLeticia\Exercicios_Csharp\06Exception\Exception01\obj\Debug\netcoreapp3.1\Exception01.csproj.CoreCompileInputs.cache
+C:\Users\laraujo\RepositoriosLeticia\Exercicios_Csharp\06Exception\Exception01\obj\Debug\netcoreapp3.1\Exception01.dll
+C:\Users\laraujo\RepositoriosLeticia\Exercicios_Csharp\06Exception\Exception01\obj\Debug\netcoreapp3.1\Exception01.pdb
+C:\Users\laraujo\RepositoriosLeticia\Exercicios_Csharp\06Exception\Exception01\obj\Debug\netcoreapp3.1\Exception01.genruntimeconfig.cache

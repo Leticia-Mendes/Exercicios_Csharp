@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E43q8r65UIJMraoxp0erNgvxerasb0KARF5AsV+y1jN8Rgo3atKmrG9wpS47xjfG+pnEDaRAOPKEmMQMjh0+xA==",
+  "dgSpecHash": "5iJWju1T/Sshww60omHVEvenRJ8yqiaivmoYxELENISOnD6VWDG/xK5Jao1Cflb9kO5y6cnpL2LqaNOe4U3hGw==",
   "success": true,
-  "projectFilePath": "D:\\codigo-c#\\git ex c# nelio\\Exercicios_Csharp\\06Exception\\Exception01\\Exception01.csproj",
+  "projectFilePath": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\06Exception\\Exception01\\Exception01.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leticia.mendes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
   ],

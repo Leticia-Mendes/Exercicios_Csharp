@@ -1,0 +1,16 @@
+D:\codigo-c#\C#-udemyNelio\06Exception\Exception03BankAccount\bin\Debug\net5.0\Exception03BankAccount.exe
+D:\codigo-c#\C#-udemyNelio\06Exception\Exception03BankAccount\bin\Debug\net5.0\Exception03BankAccount.deps.json
+D:\codigo-c#\C#-udemyNelio\06Exception\Exception03BankAccount\bin\Debug\net5.0\Exception03BankAccount.runtimeconfig.json
+D:\codigo-c#\C#-udemyNelio\06Exception\Exception03BankAccount\bin\Debug\net5.0\Exception03BankAccount.runtimeconfig.dev.json
+D:\codigo-c#\C#-udemyNelio\06Exception\Exception03BankAccount\bin\Debug\net5.0\Exception03BankAccount.dll
+D:\codigo-c#\C#-udemyNelio\06Exception\Exception03BankAccount\bin\Debug\net5.0\ref\Exception03BankAccount.dll
+D:\codigo-c#\C#-udemyNelio\06Exception\Exception03BankAccount\bin\Debug\net5.0\Exception03BankAccount.pdb
+D:\codigo-c#\C#-udemyNelio\06Exception\Exception03BankAccount\obj\Debug\net5.0\Exception03BankAccount.csproj.AssemblyReference.cache
+D:\codigo-c#\C#-udemyNelio\06Exception\Exception03BankAccount\obj\Debug\net5.0\Exception03BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+D:\codigo-c#\C#-udemyNelio\06Exception\Exception03BankAccount\obj\Debug\net5.0\Exception03BankAccount.AssemblyInfoInputs.cache
+D:\codigo-c#\C#-udemyNelio\06Exception\Exception03BankAccount\obj\Debug\net5.0\Exception03BankAccount.AssemblyInfo.cs
+D:\codigo-c#\C#-udemyNelio\06Exception\Exception03BankAccount\obj\Debug\net5.0\Exception03BankAccount.csproj.CoreCompileInputs.cache
+D:\codigo-c#\C#-udemyNelio\06Exception\Exception03BankAccount\obj\Debug\net5.0\Exception03BankAccount.dll
+D:\codigo-c#\C#-udemyNelio\06Exception\Exception03BankAccount\obj\Debug\net5.0\ref\Exception03BankAccount.dll
+D:\codigo-c#\C#-udemyNelio\06Exception\Exception03BankAccount\obj\Debug\net5.0\Exception03BankAccount.pdb
+D:\codigo-c#\C#-udemyNelio\06Exception\Exception03BankAccount\obj\Debug\net5.0\Exception03BankAccount.genruntimeconfig.cache

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\codigo-c#\\git ex c# nelio\\Exercicios_Csharp\\06Exception\\Hotel\\Exception02Hotel.csproj",
+      "projectUniqueName": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\06Exception\\Hotel\\Exception02Hotel.csproj",
       "projectName": "Exception02Hotel",
-      "projectPath": "D:\\codigo-c#\\git ex c# nelio\\Exercicios_Csharp\\06Exception\\Hotel\\Exception02Hotel.csproj",
+      "projectPath": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\06Exception\\Hotel\\Exception02Hotel.csproj",
       "packagesPath": "C:\\Users\\leticia.mendes\\.nuget\\packages\\",
-      "outputPath": "D:\\codigo-c#\\git ex c# nelio\\Exercicios_Csharp\\06Exception\\Hotel\\obj\\",
+      "outputPath": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\06Exception\\Hotel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

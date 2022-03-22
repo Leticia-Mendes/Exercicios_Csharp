@@ -1,24 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\laraujo\\RepositoriosLeticia\\Exercicios_Csharp\\06Exception\\Hotel\\Exception02Hotel.csproj": {}
+    "D:\\codigo-c#\\git ex c# nelio\\Exercicios_Csharp\\06Exception\\Hotel\\Exception02Hotel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\laraujo\\RepositoriosLeticia\\Exercicios_Csharp\\06Exception\\Hotel\\Exception02Hotel.csproj": {
+    "D:\\codigo-c#\\git ex c# nelio\\Exercicios_Csharp\\06Exception\\Hotel\\Exception02Hotel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\laraujo\\RepositoriosLeticia\\Exercicios_Csharp\\06Exception\\Hotel\\Exception02Hotel.csproj",
+        "projectUniqueName": "D:\\codigo-c#\\git ex c# nelio\\Exercicios_Csharp\\06Exception\\Hotel\\Exception02Hotel.csproj",
         "projectName": "Exception02Hotel",
-        "projectPath": "C:\\Users\\laraujo\\RepositoriosLeticia\\Exercicios_Csharp\\06Exception\\Hotel\\Exception02Hotel.csproj",
-        "packagesPath": "C:\\Users\\laraujo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\laraujo\\RepositoriosLeticia\\Exercicios_Csharp\\06Exception\\Hotel\\obj\\",
+        "projectPath": "D:\\codigo-c#\\git ex c# nelio\\Exercicios_Csharp\\06Exception\\Hotel\\Exception02Hotel.csproj",
+        "packagesPath": "C:\\Users\\leticia.mendes\\.nuget\\packages\\",
+        "outputPath": "D:\\codigo-c#\\git ex c# nelio\\Exercicios_Csharp\\06Exception\\Hotel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\laraujo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\leticia.mendes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -27,11 +28,11 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://repo.rdisoftware.com/artifactory/api/nuget/rdi-nuget-virtual": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -43,6 +44,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -53,12 +55,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.21, 3.1.21]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

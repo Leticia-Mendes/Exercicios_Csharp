@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\codigo-c#\\C#-udemyNelio\\05POO\\Shape\\Shape.csproj": {}
+    "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\05POO\\Shape\\Shape.csproj": {}
   },
   "projects": {
-    "D:\\codigo-c#\\C#-udemyNelio\\05POO\\Shape\\Shape.csproj": {
+    "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\05POO\\Shape\\Shape.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\codigo-c#\\C#-udemyNelio\\05POO\\Shape\\Shape.csproj",
+        "projectUniqueName": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\05POO\\Shape\\Shape.csproj",
         "projectName": "Shape",
-        "projectPath": "D:\\codigo-c#\\C#-udemyNelio\\05POO\\Shape\\Shape.csproj",
+        "projectPath": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\05POO\\Shape\\Shape.csproj",
         "packagesPath": "C:\\Users\\leticia.mendes\\.nuget\\packages\\",
-        "outputPath": "D:\\codigo-c#\\C#-udemyNelio\\05POO\\Shape\\obj\\",
+        "outputPath": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\05POO\\Shape\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

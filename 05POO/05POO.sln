@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31727.386
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Account", "Account\Account.csproj", "{EB141060-47FF-46DC-A2C0-9C83AA70D0FE}"
 EndProject
@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Produtos", "Produtos\Produt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shape", "Shape\Shape.csproj", "{160DA049-F42E-4710-94B2-D68FE28B8908}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tax", "Tax\Tax.csproj", "{0F041EC1-1900-40CC-BF1A-1CF1A05FDDB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tax", "Tax\Tax.csproj", "{0F041EC1-1900-40CC-BF1A-1CF1A05FDDB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilder", "StringBuilder\StringBuilder.csproj", "{6F626534-A081-4A3A-82E0-B17244734110}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{0F041EC1-1900-40CC-BF1A-1CF1A05FDDB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F041EC1-1900-40CC-BF1A-1CF1A05FDDB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F041EC1-1900-40CC-BF1A-1CF1A05FDDB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F626534-A081-4A3A-82E0-B17244734110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F626534-A081-4A3A-82E0-B17244734110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F626534-A081-4A3A-82E0-B17244734110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F626534-A081-4A3A-82E0-B17244734110}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\06Exception\\Exception03BankAccount\\Exception03BankAccount.csproj",
-      "projectName": "Exception03BankAccount",
-      "projectPath": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\06Exception\\Exception03BankAccount\\Exception03BankAccount.csproj",
+      "projectUniqueName": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\06Exception\\Exception03BankAccount\\03BankAccount.csproj",
+      "projectName": "03BankAccount",
+      "projectPath": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\06Exception\\Exception03BankAccount\\03BankAccount.csproj",
       "packagesPath": "C:\\Users\\leticia.mendes\\.nuget\\packages\\",
       "outputPath": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\06Exception\\Exception03BankAccount\\obj\\",
       "projectStyle": "PackageReference",

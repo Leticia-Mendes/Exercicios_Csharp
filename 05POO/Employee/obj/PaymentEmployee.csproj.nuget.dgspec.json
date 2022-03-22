@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\codigo-c#\\C#-udemyNelio\\05POO\\Employee\\PaymentEmployee.csproj": {}
+    "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\05POO\\Employee\\PaymentEmployee.csproj": {}
   },
   "projects": {
-    "D:\\codigo-c#\\C#-udemyNelio\\05POO\\Employee\\PaymentEmployee.csproj": {
+    "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\05POO\\Employee\\PaymentEmployee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\codigo-c#\\C#-udemyNelio\\05POO\\Employee\\PaymentEmployee.csproj",
+        "projectUniqueName": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\05POO\\Employee\\PaymentEmployee.csproj",
         "projectName": "PaymentEmployee",
-        "projectPath": "D:\\codigo-c#\\C#-udemyNelio\\05POO\\Employee\\PaymentEmployee.csproj",
+        "projectPath": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\05POO\\Employee\\PaymentEmployee.csproj",
         "packagesPath": "C:\\Users\\leticia.mendes\\.nuget\\packages\\",
-        "outputPath": "D:\\codigo-c#\\C#-udemyNelio\\05POO\\Employee\\obj\\",
+        "outputPath": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\05POO\\Employee\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

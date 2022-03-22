@@ -25,7 +25,12 @@
       "ProjectGuid": "160da049-f42e-4710-94b2-d68fe28b8908",
       "DisplayName": "Shape",
       "ColorIndex": 4
+    },
+    "6f626534-a081-4a3a-82e0-b17244734110": {
+      "ProjectGuid": "6f626534-a081-4a3a-82e0-b17244734110",
+      "DisplayName": "StringBuilder",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }

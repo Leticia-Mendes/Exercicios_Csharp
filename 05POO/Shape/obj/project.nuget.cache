@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EV4xvFvyIF5B1e88FZLFPqF9ouFf91pOTbBtGAsXtz2lLxNN0FMMQiTfXpl+7vIqGU2eW5iHosg1bNCev/3O1g==",
+  "dgSpecHash": "9AIKgngdr+1O34TGY6aPffiUEA6obBoIKNcfssbXIko/glcpro9hHZGOdbe7NOPYkLo6kcwf+lWmM+bBg4VahA==",
   "success": true,
-  "projectFilePath": "D:\\codigo-c#\\C#-udemyNelio\\05POO\\Shape\\Shape.csproj",
+  "projectFilePath": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\05POO\\Shape\\Shape.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leticia.mendes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],

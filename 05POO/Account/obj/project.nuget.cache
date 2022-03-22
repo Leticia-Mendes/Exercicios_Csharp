@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cuoR4AFHRzY6z6BTeJvCulD/00vkIqPAn9VTXOVMtO4vX5/Fe/SIbGRGsVjEGgKCvhtZ0ioTtj6mM9GWM1S38Q==",
+  "dgSpecHash": "0NcdZ7BxgMk+gwU3hKU36CD+/NVyG7gibYLgGu/xVXIGWl7sfqGTBVOhEk53v2ayvdbCXjuLze0f7ZFCE8KNMQ==",
   "success": true,
-  "projectFilePath": "D:\\codigo-c#\\C#-udemyNelio\\05POO\\Account\\Account.csproj",
+  "projectFilePath": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\05POO\\Account\\Account.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leticia.mendes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],

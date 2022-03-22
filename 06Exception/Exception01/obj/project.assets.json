@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\06Exception\\Exception01\\Exception01.csproj",
-      "projectName": "Exception01",
-      "projectPath": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\06Exception\\Exception01\\Exception01.csproj",
+      "projectUniqueName": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\06Exception\\Exception01\\01Exception.csproj",
+      "projectName": "01Exception",
+      "projectPath": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\06Exception\\Exception01\\01Exception.csproj",
       "packagesPath": "C:\\Users\\leticia.mendes\\.nuget\\packages\\",
       "outputPath": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\06Exception\\Exception01\\obj\\",
       "projectStyle": "PackageReference",

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\codigo-c#\\C#-udemyNelio\\05POO\\Account\\Account.csproj",
+      "projectUniqueName": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\05POO\\Account\\Account.csproj",
       "projectName": "Account",
-      "projectPath": "D:\\codigo-c#\\C#-udemyNelio\\05POO\\Account\\Account.csproj",
+      "projectPath": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\05POO\\Account\\Account.csproj",
       "packagesPath": "C:\\Users\\leticia.mendes\\.nuget\\packages\\",
-      "outputPath": "D:\\codigo-c#\\C#-udemyNelio\\05POO\\Account\\obj\\",
+      "outputPath": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\05POO\\Account\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

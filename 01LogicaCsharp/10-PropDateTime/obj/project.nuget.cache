@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eUuwwXzn/q7tMYbZpZsSJvMLNmhQPnbutWEYyzheHFeW0iOZ8t+frjACjWIzHPKDEuxVgzo1VcUrX8FDIzO0IQ==",
+  "dgSpecHash": "oz0PBTnPBneTYiN1k9+ITF4nQOn8esQbzUJNAaBK5To7cR+b5IG53/PM95W4oZ80+ZU2JHkwTe/Bne4bczV/Vw==",
   "success": true,
-  "projectFilePath": "D:\\codigo-c#\\C#-udemyNelio\\01LogicaCsharp\\10-PropDateTime\\10-PropDateTime.csproj",
+  "projectFilePath": "D:\\C# Codigo\\Exercicios Nelio Udemy\\01LogicaCsharp\\10-PropDateTime\\10-PropDateTime.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leticia.mendes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],

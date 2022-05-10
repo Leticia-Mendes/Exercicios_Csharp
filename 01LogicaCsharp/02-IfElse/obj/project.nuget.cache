@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oTM9B0Q35MfZEhds0jpRV9vv6eVpRtrrvV7/DKzTANJjRacYvrEJi7NSzE8RKaesecMPiL4gm6bM+oVk37wbsQ==",
+  "dgSpecHash": "ltSCD2stbEkKifFzI8B8igwfwa3eZspc5ssn4odzO6a9cy0gvU13f6Xyp+hN57OETbXO4muxPCh2eV6VLSgdFw==",
   "success": true,
-  "projectFilePath": "D:\\codigo-c#\\C#-udemyNelio\\01LogicaCsharp\\02-IfElse\\02-IfElse.csproj",
+  "projectFilePath": "D:\\C# Codigo\\Exercicios Nelio Udemy\\01LogicaCsharp\\02-IfElse\\02-IfElse.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leticia.mendes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],

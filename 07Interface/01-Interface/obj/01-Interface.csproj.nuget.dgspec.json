@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# codigo\\Exercicios Nelio Udemy\\07Interface\\01-Interface\\01-Interface.csproj": {}
+    "D:\\C# Codigo\\Exercicios Nelio Udemy\\07Interface\\01-Interface\\01-Interface.csproj": {}
   },
   "projects": {
-    "D:\\C# codigo\\Exercicios Nelio Udemy\\07Interface\\01-Interface\\01-Interface.csproj": {
+    "D:\\C# Codigo\\Exercicios Nelio Udemy\\07Interface\\01-Interface\\01-Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# codigo\\Exercicios Nelio Udemy\\07Interface\\01-Interface\\01-Interface.csproj",
+        "projectUniqueName": "D:\\C# Codigo\\Exercicios Nelio Udemy\\07Interface\\01-Interface\\01-Interface.csproj",
         "projectName": "01-Interface",
-        "projectPath": "D:\\C# codigo\\Exercicios Nelio Udemy\\07Interface\\01-Interface\\01-Interface.csproj",
+        "projectPath": "D:\\C# Codigo\\Exercicios Nelio Udemy\\07Interface\\01-Interface\\01-Interface.csproj",
         "packagesPath": "C:\\Users\\leticia.mendes\\.nuget\\packages\\",
-        "outputPath": "D:\\C# codigo\\Exercicios Nelio Udemy\\07Interface\\01-Interface\\obj\\",
+        "outputPath": "D:\\C# Codigo\\Exercicios Nelio Udemy\\07Interface\\01-Interface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gAGtVfll7AaqdxtKQjV7ZLrEbTxlDeuuEzZp5PmIMPrWCXEVb7rttzO2rjlLkZk1uOjQHIwiipzcTZgcrf22kg==",
+  "dgSpecHash": "lR83vPJZWTAon9d8KRA+5ItCSNA6/oFRoydm8z3VSr3b2w5LCp2egsxtDLi900ux6XPEoj0cY5GUqC19Lpmp/Q==",
   "success": true,
-  "projectFilePath": "D:\\codigo-c#\\C#-udemyNelio\\01LogicaCsharp\\01-Basiquinho\\01-Basiquinho.csproj",
+  "projectFilePath": "D:\\C# Codigo\\Exercicios Nelio Udemy\\01LogicaCsharp\\01-Basiquinho\\01-Basiquinho.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leticia.mendes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],

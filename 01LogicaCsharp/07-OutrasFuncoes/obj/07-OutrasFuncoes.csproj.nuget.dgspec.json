@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\codigo-c#\\C#-udemyNelio\\01LogicaCsharp\\07-OutrasFuncoes\\07-OutrasFuncoes.csproj": {}
+    "D:\\C# Codigo\\Exercicios Nelio Udemy\\01LogicaCsharp\\07-OutrasFuncoes\\07-OutrasFuncoes.csproj": {}
   },
   "projects": {
-    "D:\\codigo-c#\\C#-udemyNelio\\01LogicaCsharp\\07-OutrasFuncoes\\07-OutrasFuncoes.csproj": {
+    "D:\\C# Codigo\\Exercicios Nelio Udemy\\01LogicaCsharp\\07-OutrasFuncoes\\07-OutrasFuncoes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\codigo-c#\\C#-udemyNelio\\01LogicaCsharp\\07-OutrasFuncoes\\07-OutrasFuncoes.csproj",
+        "projectUniqueName": "D:\\C# Codigo\\Exercicios Nelio Udemy\\01LogicaCsharp\\07-OutrasFuncoes\\07-OutrasFuncoes.csproj",
         "projectName": "07-OutrasFuncoes",
-        "projectPath": "D:\\codigo-c#\\C#-udemyNelio\\01LogicaCsharp\\07-OutrasFuncoes\\07-OutrasFuncoes.csproj",
+        "projectPath": "D:\\C# Codigo\\Exercicios Nelio Udemy\\01LogicaCsharp\\07-OutrasFuncoes\\07-OutrasFuncoes.csproj",
         "packagesPath": "C:\\Users\\leticia.mendes\\.nuget\\packages\\",
-        "outputPath": "D:\\codigo-c#\\C#-udemyNelio\\01LogicaCsharp\\07-OutrasFuncoes\\obj\\",
+        "outputPath": "D:\\C# Codigo\\Exercicios Nelio Udemy\\01LogicaCsharp\\07-OutrasFuncoes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

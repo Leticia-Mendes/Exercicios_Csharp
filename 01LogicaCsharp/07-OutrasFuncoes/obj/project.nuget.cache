@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hOFbyBy8gijhasNMY6cjyQdhup4AKKqJRJQftvBr/6ZWU3riJIRQy+RHaL4DfIqkmiehrIVdPGpd43DVqiGTyA==",
+  "dgSpecHash": "+cGz8xudzLEvg08XsICoP7TTAKJX5QOTDOsacCDljCKq4tz4mJcm9mSU1gqbx3rll6uqTtWlh97s+EJE0Ztcnw==",
   "success": true,
-  "projectFilePath": "D:\\codigo-c#\\C#-udemyNelio\\01LogicaCsharp\\07-OutrasFuncoes\\07-OutrasFuncoes.csproj",
+  "projectFilePath": "D:\\C# Codigo\\Exercicios Nelio Udemy\\01LogicaCsharp\\07-OutrasFuncoes\\07-OutrasFuncoes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leticia.mendes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],

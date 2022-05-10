@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d5ZHW+Tu1ei51S1DA8IB3oSQGLYQhO1nApDliLBENs6uNGi4/8/YwJEoUh7UaohPlbsl3jo25P19A8ihCQGnzA==",
+  "dgSpecHash": "QKWmctRA/VoHVwNZutXCp7wCFpu3Yxcn9YCBbSgr3ixBwtG/RrTTM6G2TJXvdVQ4S++J2yoa3VZi5Ma9cXyQiQ==",
   "success": true,
-  "projectFilePath": "D:\\codigo-c#\\C#-udemyNelio\\01LogicaCsharp\\05-Switch\\05-Switch.csproj",
+  "projectFilePath": "D:\\C# Codigo\\Exercicios Nelio Udemy\\01LogicaCsharp\\05-Switch\\05-Switch.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leticia.mendes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],

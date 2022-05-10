@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L7MVWw83KPow7b6rVwbw1wS8qAvpjkDOTp9JUxuezyd+ViZCpYWCkUooi8b6OX3bnZxp2FlUnrpp/wcyB/hOew==",
+  "dgSpecHash": "f4RDy7raQD1cmBAEqU7HboQum+hdkRsdwC8ok2Tpo5qBtCuSNADfNYVrPJJ/J4JywzzlSRBJzBK55GU3c6c8zA==",
   "success": true,
-  "projectFilePath": "D:\\codigo-c#\\C#-udemyNelio\\01LogicaCsharp\\03-While\\03-While.csproj",
+  "projectFilePath": "D:\\C# Codigo\\Exercicios Nelio Udemy\\01LogicaCsharp\\03-While\\03-While.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leticia.mendes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],

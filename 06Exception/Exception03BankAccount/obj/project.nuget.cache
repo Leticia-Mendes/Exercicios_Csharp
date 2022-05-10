@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zl7Hael/Z5laDTtDPFyhnUFMex7aFpFo5o+uTKkZhFteACvsGtQHvgXow3u5jZdEvUpUiCee9WPPqwZhziXCaA==",
+  "dgSpecHash": "TGQucFaFNnFathLHqsZOg1Hcu6Oc5sl5jlVM65xm09PUVkk3q4+zUjSWBBQan8MEEFh0X+KS4GxsnW7edK6JWw==",
   "success": true,
-  "projectFilePath": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\06Exception\\Exception03BankAccount\\03BankAccount.csproj",
+  "projectFilePath": "D:\\C# Codigo\\Exercicios Nelio Udemy\\06Exception\\Exception03BankAccount\\03BankAccount.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leticia.mendes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],

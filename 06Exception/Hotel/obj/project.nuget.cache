@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Usks7bW1TZ79D7AyQtDCNn5bTVOQZU0wGH0rbsOCu9lW/J7XOD4iwIW/p91bltIfLD/kSgGelnrNNe6UeElHHg==",
+  "dgSpecHash": "ghHWV4H2e5BroDtyRhTOiotiAksd+1ZbVn0PSF5yRpuWA4MlRA8Fs3SX8H4kAL0q8AadGq2zu2tZiMag1LLpjg==",
   "success": true,
-  "projectFilePath": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\06Exception\\Hotel\\02Hotel.csproj",
+  "projectFilePath": "D:\\C# Codigo\\Exercicios Nelio Udemy\\06Exception\\Hotel\\02Hotel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leticia.mendes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
   ],

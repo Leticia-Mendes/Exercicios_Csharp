@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k7b/z8oHlt/kVGo1hY6JGJbO9HXvPDwbDOkPLBDIEIxlREDCgXqedLKg/08+tS2Ol642wZK06ZXNVw7VgAi5Kw==",
+  "dgSpecHash": "nhPGCuc9vy8ZPWmmw7YiyBCKyMDDS2zrDz1O2hY483k33Yzy5i+PdmobV/+UHTMqG1DbgqiaehCWCVV4zi91Ww==",
   "success": true,
-  "projectFilePath": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\04EnumComposicao\\04Enum\\01Enum.csproj",
+  "projectFilePath": "D:\\C# codigo\\Exercicios Nelio Udemy\\04EnumComposicao\\04Enum\\01Enum.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leticia.mendes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],

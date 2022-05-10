@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Uy09Qt3UWjvWZ7jFd1XFBK3G9n6ZUlLnB5iK09tsj7V5yjAs/ABMau9sAHyNUCaXsE/B2SXUoAbYMkUOm+sM5w==",
+  "dgSpecHash": "hX5QH1HaA9c9zczb0cacpF+zfMPmDBbPQAWBn9yu1n0hP1yjNiE2/zNANY4dG/IoKgbHdsm+ONCuySPqKkkELQ==",
   "success": true,
-  "projectFilePath": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\04EnumComposicao\\03StringBuilder\\03StringBuilder.csproj",
+  "projectFilePath": "D:\\C# codigo\\Exercicios Nelio Udemy\\04EnumComposicao\\03StringBuilder\\03StringBuilder.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leticia.mendes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],

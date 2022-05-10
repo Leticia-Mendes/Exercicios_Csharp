@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-namespace _01_Interface.Services
+﻿namespace _01_Interface.Services
 {
     class BrazilTaxService : ITaxService
     {

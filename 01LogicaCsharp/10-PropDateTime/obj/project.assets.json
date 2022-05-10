@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\codigo-c#\\C#-udemyNelio\\01LogicaCsharp\\10-PropDateTime\\10-PropDateTime.csproj",
+      "projectUniqueName": "D:\\C# Codigo\\Exercicios Nelio Udemy\\01LogicaCsharp\\10-PropDateTime\\10-PropDateTime.csproj",
       "projectName": "10-PropDateTime",
-      "projectPath": "D:\\codigo-c#\\C#-udemyNelio\\01LogicaCsharp\\10-PropDateTime\\10-PropDateTime.csproj",
+      "projectPath": "D:\\C# Codigo\\Exercicios Nelio Udemy\\01LogicaCsharp\\10-PropDateTime\\10-PropDateTime.csproj",
       "packagesPath": "C:\\Users\\leticia.mendes\\.nuget\\packages\\",
-      "outputPath": "D:\\codigo-c#\\C#-udemyNelio\\01LogicaCsharp\\10-PropDateTime\\obj\\",
+      "outputPath": "D:\\C# Codigo\\Exercicios Nelio Udemy\\01LogicaCsharp\\10-PropDateTime\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

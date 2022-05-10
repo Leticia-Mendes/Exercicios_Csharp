@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+70Cjq76PLrMf63jrtvZnPi1BZJm0DN48fuWq+0zTw2kskn0f8XMW+0vpRbPC8u4wlbbQM6Beu1SSGMfCjV/vw==",
+  "dgSpecHash": "x+yt9VkkxgMGxYwfGDd3p5p87f5WYLrzxOufdPkk04/7JEo/HeobAhK8XIPRKHnxLfgzP5C0zUfMnoVfAZN1sQ==",
   "success": true,
-  "projectFilePath": "D:\\codigo-c#\\C#-udemyNelio\\01LogicaCsharp\\12-DateTimeFuso\\12-DateTimeFuso.csproj",
+  "projectFilePath": "D:\\C# Codigo\\Exercicios Nelio Udemy\\01LogicaCsharp\\12-DateTimeFuso\\12-DateTimeFuso.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leticia.mendes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],

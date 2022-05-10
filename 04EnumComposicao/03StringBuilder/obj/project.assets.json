@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\04EnumComposicao\\03StringBuilder\\03StringBuilder.csproj",
+      "projectUniqueName": "D:\\C# codigo\\Exercicios Nelio Udemy\\04EnumComposicao\\03StringBuilder\\03StringBuilder.csproj",
       "projectName": "03StringBuilder",
-      "projectPath": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\04EnumComposicao\\03StringBuilder\\03StringBuilder.csproj",
+      "projectPath": "D:\\C# codigo\\Exercicios Nelio Udemy\\04EnumComposicao\\03StringBuilder\\03StringBuilder.csproj",
       "packagesPath": "C:\\Users\\leticia.mendes\\.nuget\\packages\\",
-      "outputPath": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\04EnumComposicao\\03StringBuilder\\obj\\",
+      "outputPath": "D:\\C# codigo\\Exercicios Nelio Udemy\\04EnumComposicao\\03StringBuilder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

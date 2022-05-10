@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DlwI7DATpuY8fjiOHgvvwr2kuUuPt12L3EwvYIgyWQvPpT93qeB8VLYnp0pgdPBK9oIVh8+wr94jY9VC1QHQrw==",
+  "success": true,
+  "projectFilePath": "D:\\C# Codigo\\Exercicios Nelio Udemy\\07Interface\\03-Interface\\03-Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leticia.mendes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

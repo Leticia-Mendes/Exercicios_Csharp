@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\06Exception\\Exception01\\01Exception.csproj",
+      "projectUniqueName": "D:\\C# codigo\\Exercicios Nelio Udemy\\06Exception\\Exception01\\01Exception.csproj",
       "projectName": "01Exception",
-      "projectPath": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\06Exception\\Exception01\\01Exception.csproj",
+      "projectPath": "D:\\C# codigo\\Exercicios Nelio Udemy\\06Exception\\Exception01\\01Exception.csproj",
       "packagesPath": "C:\\Users\\leticia.mendes\\.nuget\\packages\\",
-      "outputPath": "D:\\codigo-c#\\C# Exercicios Nelio Udemy\\06Exception\\Exception01\\obj\\",
+      "outputPath": "D:\\C# codigo\\Exercicios Nelio Udemy\\06Exception\\Exception01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
